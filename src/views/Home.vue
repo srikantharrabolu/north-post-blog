@@ -3,7 +3,7 @@
       <div class="bg-white sm:py-12">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="flex justify-between items-center mx-auto max-w-2xl lg:mx-0">
-            <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">North Posts</h2>
+            <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Blogs</h2>
             <input
               type="text"
               v-model="searchQuery"

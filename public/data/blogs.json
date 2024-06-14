@@ -1,71 +1,52 @@
 [
     {
       "id": 1,
-      "title": "First Blog Post",
-      "type": "Marketing",
-      "content": "This is the content of the first blog post.",
-      "author": "John Doe",
-      "date": "Mar 16, 2024",
-      "slug": "first-blog-post",
-      "mainAlt": "First",
-      "mainImage": "../src/assets/IMG_6742.JPEG",
+      "title": "Russia's Strategic Moves: Nuclear Drills and Deployments Amid Tensions",
+      "type": "News",
+      "content": "Explore Russia's recent military maneuvers including nuclear drills, warhead deployments in Kaliningrad, and naval exercises in the Caribbean amid heightened tensions with the West over Ukraine.",
+      "author": "Srikanth",
+      "date": "June 14, 2024",
+      "slug": "russia-nuclear-submarine",
+      "mainAlt": "russia nuclear submarine",
+      "mainImage": "https://www.nti.org/wp-content/uploads/2021/07/russia_submarine_header-1000x384.jpg", 
+      
+      "description": "Amid heightened tensions between Russia and the West over the Ukraine conflict, Russia has recently undertaken significant military maneuvers and strategic deployments, signaling a robust display of military capability and readiness. <br>This special report delves into Russia's strategic moves and their implications for geopolitical stability.<br>In response to the escalating standoff, Russia has initiated the second phase of its nuclear drills, underscoring its preparedness to utilize tactical nuclear weapons if necessary. These drills are not just symbolic; they serve as a clear message of deterrence amidst the ongoing geopolitical tensions.<br><br>Collaborating with its ally Belarus, Russia has conducted joint exercises involving the equipping of sea-based cruise missiles with dummy nuclear warheads. These exercises highlight Russia's capacity to deploy nuclear capabilities across different military domains, including naval operations crucial for its defense strategy. Meanwhile, in the Leningrad Military District, soldiers are engaged in training exercises focused on mounting warheads onto missile systems. This training underscores Russia's commitment to maintaining and enhancing its ballistic missile capabilities, a cornerstone of its defense posture.<br><br>Further escalating concerns, Poland has reported Russia's deployment of up to 200 nuclear warheads in Kaliningrad, a strategic enclave situated between Poland and Lithuania. Kaliningrad, as Russia's westernmost region, plays a pivotal role in Moscow's military strategy in the Baltic region, approximately 260 kilometers from Warsaw. This deployment not only bolsters Russia's defense capabilities but also serves as a strategic outpost in a region of significant geopolitical sensitivity.<br><br>In a move seen as provocative by Western powers, Russia has dispatched a naval group, including a nuclear-powered submarine and vessels capable of carrying Zircon hypersonic cruise missiles, to the Caribbean. This deployment, perceived as a direct message to Washington, underscores Russia's intent to assert its military presence in what is traditionally considered the backyard of the United States. Despite assurances from Cuba that these vessels do not carry nuclear weapons, their presence has prompted the deployment of American destroyers and ships to monitor and assess the situation.<br><br>These concurrent military developments - the nuclear drills, warhead deployments in Kaliningrad, and naval exercises in the Caribbean - paint a concerning picture of Russia's willingness to escalate tensions and project its military might on multiple fronts. The ongoing conflict in Ukraine, which shows no signs of resolution, exacerbates these tensions and raises the specter of a broader confrontation with the West reminiscent of Cold War-era confrontations.<br><br>The implications of Russia's military maneuvers extend beyond immediate regional concerns. They underscore a broader shift in global geopolitics, where traditional alliances and strategic balances are being tested and redefined. The strategic calculus behind Russia's actions reflects its perceived security imperatives and its determination to safeguard what it considers its sphere of influence. From a historical perspective, the echoes of the Cold War are unmistakable. The deployment of nuclear-capable assets, coupled with large-scale military exercises, evokes memories of an era characterized by ideological rivalry and military brinkmanship.<br><br>For the West, particularly NATO member states, Russia's assertive posture presents significant challenges. It necessitates a calibrated response that balances deterrence with diplomatic engagement, aimed at preventing further escalation while safeguarding collective security interests. This response is further complicated by the need to manage internal cohesion within the alliance and navigate divergent national interests among member states. The role of diplomacy in de-escalating tensions cannot be overstated. Dialogue channels must remain open to prevent misunderstandings and miscalculations from spiraling into conflict. Multilateral frameworks, including arms control agreements and confidence-building measures, offer pathways to mitigate risks and build mutual trust in an increasingly uncertain security environment.<br><br>In conclusion, Russia's recent military maneuvers and strategic deployments underscore a complex interplay of geopolitical calculations and security imperatives. The implications extend far beyond regional dynamics, impacting global security architecture and international relations. As tensions persist and evolve, the imperative for responsible leadership and effective diplomacy becomes ever more urgent in averting a return to Cold War-era confrontation and ensuring a peaceful and stable international order."
+      ,
       "media": [
       {
         "type": "image",
-        "url": "https://example.com/image1.jpg"
+        "url": "https://www.nti.org/wp-content/uploads/2021/07/russia_submarine_header-1000x384.jpg"
       },
       {
         "type": "video",
-        "url": "https://example.com/video1.mp4"
-      },
-      {
-        "type": "image",
-        "url": "https://example.com/image2.jpg"
+        "url": "https://www.youtube.com/watch?v=QvyCWwrkzlM"
       }
     ]
     },
     {
-      "id": 2,
-      "type": "Marketing",
-      "title": "Second Blog Post",
-      "content": "This is the content of the second blog post.",
-      "author": "Jane Smith",
-      "date": "April 16, 2024",
-      "slug": "second-blog-post",
-      "mainAlt": "First",
-      "mainImage": "",
-      "media": [
-      {
-        "type": "image",
-        "url": "https://example.com/image3.jpg"
-      },
-      {
-        "type": "video",
-        "url": "https://example.com/video2.mp4"
+        "id": 2,
+        "title": "Federal Reserve Keeps key interest rates unchanged, what Fed Chair Jerome Powell says",
+        "type": "News",
+        "content": "Read the latest economic insights from the Federal Reserve. Discover updates on employment, inflation, and monetary policy goals. Explore forecasts for GDP growth, labor market conditions, and inflation rates. Stay informed on economic projections and policy decisions affecting stability and growth in the United States.",
+        "author": "Srikanth",
+        "date": "June 14, 2024",
+        "slug": "fed-chair-jerome-powell-no-rate-cuts-this-year-markets",
+        "mainAlt": "Fed Chair Jerome Powell on interest rate decision",
+        "mainImage": "https://www.politico.eu/cdn-cgi/image/width=480,height=325,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/12/15/GettyImages-1852954823-scaled.jpg", 
+        
+        "description": "Good afternoon. <br>My colleagues and I remain squarely focused on achieving our dual mandate goals of maximum employment and stable prices for the benefit of the American people. <br>Our economy has made considerable progress toward both goals. Over the past two years, the labor market has come into better balance, with continued strong job gains and a low unemployment rate. <br>Inflation has eased substantially from a peak of 7% to 2.7% but it's still too high. <br>We are strongly committed to returning inflation to our 2% goal in support of a strong economy that benefits everyone. <br>Today, the FOMC decided to leave our policy interest rate unchanged and to continue to reduce our securities holdings. <br>We are maintaining our restrictive stance of monetary policy in order to keep demand in line with supply and reduce inflationary pressures. <br>I'll have more to say about monetary policy after briefly reviewing economic developments. <br>Recent indicators suggest that economic activity has continued to expand at a solid pace. Although GDP growth moderated from 3.4% in the fourth quarter of last year, to 1.3% in the first quarter, private domestic final purchases which excludes inventory investment, government spending and net exports and usually sends a clear signal on underlying demand grew at 2.8% in the first quarter, nearly as strong as the second half of 2023. <br>Growth of consumer spending has slowed from last year's robust pace, but remains solid and investment in equipment and intangibles has picked up from its anemic pace last year. <br>Improving supply conditions have supported resilient demand and the strong performance of the US economy over the past year. <br>In our summary of economic projections, Committee participants generally expect GDP growth to slow from last year's pace with a median projection of 2.1% this year and 2.0% over the next two years. <br>In the labor market supply and demand conditions have come into better balance. Payroll job gains averaged 218,000 jobs per month in April and May a pace that is still strong but a bit below that scene in the first quarter. <br>The unemployment rate ticked up but remains low at 4%. <br>Strong job creation over the past couple of years has been accompanied by an increase in the supply of workers, reflecting increases in participation among individuals aged 25 to 54 years and the continued strong pace of emigration. <br>nominal wage growth has eased over the past year and the jobs to workers cap has narrowed. Overall, a broad set of indicators suggests that conditions in the labor market have returned to about where they stood on the eve of the pandemic relatively tight but not over. Convey. <br>FOMC participants expect labor market strain to continue the median unemployment rate projection in the SCP is 4.0% at the end of this year, and 4.2% at the end of next year. <br>Inflation is a use notably over the past two years but remains above our longer run goal of 2% total PCE prices rose 2.7% over the 12 months ending in April. Excluding the volatile food and energy categories, core PCE prices rose 2.8%. <br>The Consumer Price Index which came out this morning, and tends to run higher than the PCE price PCE price index rose 3.3% over the 12 months ending in May, and the core CPI rose 3.4%",
+        "media": [
+        {
+          "type": "image",
+          "url": "https://www.politico.eu/cdn-cgi/image/width=480,height=325,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/12/15/GettyImages-1852954823-scaled.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rEsa5YVytAo"
+        }
+      ]
       }
-    ]
-    },
-    {
-        "id": 3,
-        "type": "Finance",
-        "title": "third Blog Post",
-        "content": "This is the content of the third blog post.",
-        "author": "Jane Smith",
-        "date": "May 16, 2024",
-        "slug": "third-blog-post",
-        "mainAlt": "First",
-        "mainImage": ""
-      },
-      {
-        "id": 4,
-        "type": "Marketing",
-        "title": "Fourth Blog Post",
-        "content": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
-        "author": "Jane Smith",
-        "date": "Jun 16, 2024",
-        "slug": "fourth-blog-post",
-        "mainAlt": "First",
-        "mainImage": ""
-      }
+
+    
   ]
   
