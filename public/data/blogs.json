@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "type": "Marketing",
+      "content": "This is the content of the first blog post.",
+      "author": "John Doe",
+      "date": "Mar 16, 2024",
+      "slug": "first-blog-post",
+      "mainAlt": "First",
+      "mainImage": "../src/assets/IMG_6742.JPEG",
+      "media": [
+      {
+        "type": "image",
+        "url": "https://example.com/image1.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://example.com/video1.mp4"
+      },
+      {
+        "type": "image",
+        "url": "https://example.com/image2.jpg"
+      }
+    ]
+    },
+    {
+      "id": 2,
+      "type": "Marketing",
+      "title": "Second Blog Post",
+      "content": "This is the content of the second blog post.",
+      "author": "Jane Smith",
+      "date": "April 16, 2024",
+      "slug": "second-blog-post",
+      "mainAlt": "First",
+      "mainImage": "",
+      "media": [
+      {
+        "type": "image",
+        "url": "https://example.com/image3.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://example.com/video2.mp4"
+      }
+    ]
+    },
+    {
+        "id": 3,
+        "type": "Finance",
+        "title": "third Blog Post",
+        "content": "This is the content of the third blog post.",
+        "author": "Jane Smith",
+        "date": "May 16, 2024",
+        "slug": "third-blog-post",
+        "mainAlt": "First",
+        "mainImage": ""
+      },
+      {
+        "id": 4,
+        "type": "Marketing",
+        "title": "Fourth Blog Post",
+        "content": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "author": "Jane Smith",
+        "date": "Jun 16, 2024",
+        "slug": "fourth-blog-post",
+        "mainAlt": "First",
+        "mainImage": ""
+      }
+  ]
+  
