@@ -16,10 +16,6 @@
       {
         "type": "image",
         "url": "https://www.nti.org/wp-content/uploads/2021/07/russia_submarine_header-1000x384.jpg"
-      },
-      {
-        "type": "video",
-        "url": "https://www.youtube.com/watch?v=QvyCWwrkzlM"
       }
     ]
     },
@@ -39,10 +35,6 @@
         {
           "type": "image",
           "url": "https://www.politico.eu/cdn-cgi/image/width=480,height=325,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/12/15/GettyImages-1852954823-scaled.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=rEsa5YVytAo"
         }
       ]
       },
