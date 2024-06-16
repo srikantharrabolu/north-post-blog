@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vite-plugin-commonjs": "^0.10.1",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.3",
-    "vue3-youtube": "^0.1.9"
+    "vue-router": "^4.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",

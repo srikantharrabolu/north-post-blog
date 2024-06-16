@@ -7,14 +7,14 @@
         <h2 class="text-3xl font-bold mb-4">{{ post.title }}</h2>
         <div class="mb-6" v-for="mediaItem in post.media" :key="mediaItem.url">
           <template v-if="mediaItem.type === 'image'">
-            <img :src="`../src/assets/${mediaItem.url}`" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
+            <img :src="'/images/' + mediaItem.url" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
           </template>
-          <template v-else-if="mediaItem.type === 'video'">
+          <!-- <template v-else-if="mediaItem.type === 'video'">
             <YouTube 
             :src="mediaItem.url" 
             @ready="onReady"
             ref="youtube" />
-          </template>
+          </template> -->
         </div>
         <p class="text-gray-700 mb-6" v-html="post.description"></p>
         <div class="text-gray-600 text-sm">
@@ -28,12 +28,12 @@
   </template>
   
   <script>
-  import YouTube from 'vue3-youtube'
+//   import YouTube from 'vue3-youtube'
 
   export default {
     name: 'BlogPostDetails',
     components: {
-        YouTube,
+        // YouTube,
     },
     data() {
       return {
