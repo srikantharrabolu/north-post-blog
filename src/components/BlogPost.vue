@@ -1,7 +1,6 @@
 <template>
   <div class="bg-white shadow-md rounded-lg overflow-hidden">
-    <!-- Post image -->
-    <img :src="post.mainImage" :alt="post.mainAlt" class="w-full h-48 object-cover">
+    <img :src="`../src/assets/${post.mainImage}`" :alt="post.mainAlt" class="w-full h-48 object-cover">
     
     <article class="flex flex-col items-start justify-between p-6">
       <div class="flex items-center gap-x-4 text-xs">
@@ -17,7 +16,7 @@
         </h3>
         <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">{{ post.content }}</p>
       </div>
-      <div class="relative mt-8 flex items-center gap-x-4">
+      <!-- <div class="relative mt-8 flex items-center gap-x-4">
         <img src="../assets/IMG_6742.JPEG" alt="" class="h-10 w-10 rounded-full bg-gray-50">
         <div class="text-sm leading-6">
           <p class="font-semibold text-gray-900">
@@ -28,7 +27,7 @@
           </p>
           <p class="text-gray-600">Co-Founder / CTO</p>
         </div>
-      </div>
+      </div> -->
     </article>
   </div>
 </template>

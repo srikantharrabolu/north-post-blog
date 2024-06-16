@@ -7,18 +7,13 @@
         <h2 class="text-3xl font-bold mb-4">{{ post.title }}</h2>
         <div class="mb-6" v-for="mediaItem in post.media" :key="mediaItem.url">
           <template v-if="mediaItem.type === 'image'">
-            <img :src="mediaItem.url" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
+            <img :src="`../src/assets/${mediaItem.url}`" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
           </template>
           <template v-else-if="mediaItem.type === 'video'">
-            <!-- <video controls class="w-full h-auto mb-4 rounded-md shadow-sm">
-              <source :src="mediaItem.url" type="video/mp4">
-              Your browser does not support the video tag.
-            </video> -->
             <YouTube 
-        :src="mediaItem.url" 
-        @ready="onReady"
-        ref="youtube" />
-
+            :src="mediaItem.url" 
+            @ready="onReady"
+            ref="youtube" />
           </template>
         </div>
         <p class="text-gray-700 mb-6" v-html="post.description"></p>
@@ -53,7 +48,6 @@
       fetch(`/data/blogs.json`)
         .then(response => response.json())
         .then(data => {
-            console.log("test", this.$route.params, this.$props);
           this.post = data.find(post => post.slug === this.$route?.params?.slug);
         });
     },
@@ -61,7 +55,7 @@
             this.$refs.youtube.playVideo()
         },
         navigateToHome() {
-      this.$router.push({ path: '/' }); // Navigate to the home page
+      this.$router.push({ path: '/' });
     }
   }
   };
