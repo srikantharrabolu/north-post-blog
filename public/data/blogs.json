@@ -4,7 +4,6 @@
       "title": "Russia's Strategic Moves: Nuclear Drills and Deployments Amid Tensions",
       "type": "News",
       "content": "Explore Russia's recent military maneuvers including nuclear drills, warhead deployments in Kaliningrad, and naval exercises in the Caribbean amid heightened tensions with the West over Ukraine.",
-      "author": "Srikanth",
       "date": "June 14, 2024",
       "slug": "russia-nuclear-submarine",
       "mainAlt": "russia nuclear submarine",
@@ -24,7 +23,6 @@
         "title": "Federal Reserve Keeps key interest rates unchanged, what Fed Chair Jerome Powell says",
         "type": "News",
         "content": "Read the latest economic insights from the Federal Reserve. Discover updates on employment, inflation, and monetary policy goals. Explore forecasts for GDP growth, labor market conditions, and inflation rates. Stay informed on economic projections and policy decisions affecting stability and growth in the United States.",
-        "author": "Srikanth",
         "date": "June 14, 2024",
         "slug": "fed-chair-jerome-powell-no-rate-cuts-this-year-markets",
         "mainAlt": "Fed Chair Jerome Powell on interest rate decision",
@@ -44,7 +42,6 @@
         "title": "Donald Trump Proposes Controversial Tariff Policy and Makes Return to Capitol Hill Amidst 2024 Election Race",
         "type": "News",
         "content": " Trump's Tariff Policy and Economic Plan, Republican Support and Election Strategies, Democratic Criticism and Key Battleground State Controversy",
-        "author": "Srikanth",
         "date": "June 15, 2024",
         "slug": "Trump-plans-to-eliminate-income-taxes-if-re-elected-in-2024",
         "mainAlt": "Donal Trump returns to capitol hill",
@@ -63,7 +60,6 @@
         "title": "US Navy Conducts Fresh Airstrikes on Houthis in Yemen | Houthis Describe US as 'Unforeseen Adversary",
         "type": "News",
         "content": "US Navy Battles Rising Threat: Houthi Militants' Aggressive Moves in Red Sea",
-        "author": "Srikanth",
         "date": "June 15, 2024",
         "slug": "US-Navy-Faces-Growing-Threat-from-Houthi-Militants-in-Red-Sea-Attacks",
         "mainAlt": "Donal Trump returns to capitol hill",
@@ -82,7 +78,6 @@
         "title": "Prime Minister Modi's Viral Selfie with Italian PM Meloni: A Moment of Diplomatic Camaraderie",
         "type": "News",
         "content": "The widely-shared selfie of Prime Minister Modi with Italian PM Meloni underscores their diplomatic rapport and global resonance on social platforms",
-        "author": "Srikanth",
         "date": "June 15, 2024",
         "slug": "italian-pm-giorgia-meloni-shares-new-video-with-pm-modi-greetings-from-team-melody",
         "mainAlt": "Italian PM Giorgia Meloni shares a new video with PM Modi, captioned 'Greetings from Team Melody', sparking viral sensation",
@@ -93,6 +88,24 @@
         {
           "type": "image",
           "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/pm-modi-and-italys-pm-giorgia-meloni-clicks-selfie-153144376-16x9_0.jpeg?VersionId=kzArpoeCzFEoB7eaKDHohiWSZ9EsbNGh&size=690:388"
+        }
+      ]
+      },
+      {
+        "id": 6,
+        "title": "US-Russia Tensions Escalate in Cuba: Nuclear Submarine Deployments and Geopolitical Rivalry",
+        "type": "News",
+        "content": "US Deploys Nuclear Submarine to Cuba Following Russian Warship Arrival",
+        "date": "June 15, 2024",
+        "slug": "us-russia-tensions-escalate-cuba-nuclear-submarine-deployments",
+        "mainAlt": "US-Russia Tensions in Cuba Escalate with Nuclear Submarine Deployments",
+        "mainImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1obsV3.img?w=768&h=485&m=6", 
+        
+"description": "Recent Developments<br>The geopolitical tension between the US and Russia has reignited in Cuba, reminiscent of the Cold War era. The situation escalated earlier this week when a Russian nuclear submarine docked in Havana. In response, the US dispatched the USS Helena (SSN-725), a Los Angeles-class nuclear-powered fast attack submarine, to the US naval base in Guantanamo Bay, Cuba. This move came just a day after the Russian vessels' arrival.<br><br>Guantanamo Bay: A Strategic US Naval Base<br>Guantanamo Bay, often referred to as Gitmo, serves as both a US naval base and an infamous detention center. Known for its controversial history, including allegations of torture, the base has now become a focal point in the renewed US-Russia rivalry. While the US claims the USS Helena's visit was a routine stop planned weeks in advance, the timing suggests a strategic display of power.<br><br>Russia's Perspective<br>Maria Zakharova, spokesperson for the Russian Foreign Ministry, emphasized that Russia's military maneuvers are often misunderstood by the West. She argued that diplomatic channels and extensive communications from Russian leadership are frequently ignored, necessitating shows of military strength to capture the West's attention.<br><br>The Cuban Angle<br>Cuba finds itself caught in the crossfire of this geopolitical standoff. The US maintains a naval base on Cuban soil due to a deal signed in 1903, which Havana has long contested. Despite Cuba's protests, the US has continued to use Guantanamo Bay for military purposes, further straining US-Cuban relations. Cuba's approval of the Russian submarine's visit appears to be a strategic move to counter US influence, but the American response indicates a refusal to be deterred.<br><br>International Reactions<br>Adding to the tension, Canada has deployed a naval patrol to Havana, coinciding with the presence of Russian warships. Canada insists this is a routine visit, but the timing raises questions about the true intent behind these movements. This multilayered escalation signals a troubling trend towards increased military posturing in a region with a fraught history.<br><br>Conclusion<br>The recent activities in Cuba underline a dangerous revival of Cold War dynamics between the US and Russia. Both nations are engaging in a high-stakes game of one-upmanship, disregarding potential consequences. This situation not only endangers regional stability but also risks broader international conflict. As global powers flex their military muscles, the world watches with bated breath, hoping for de-escalation and a return to diplomatic dialogue.",
+          "media": [
+        {
+          "type": "image",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1obsV3.img?w=768&h=485&m=6"
         }
       ]
       }
