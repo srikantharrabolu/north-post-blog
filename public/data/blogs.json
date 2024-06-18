@@ -1,5 +1,24 @@
 [
+    
     {
+        "id": 1,
+        "title": "Understanding China's Expanding Nuclear Arsenal: Aimed at Which Country",
+        "type": "News",
+        "content": "Is China expanding its nuclear stockpile with a focus on India?",
+        "date": "June 18, 2024",
+        "slug": "china-expanding-nuclear-stockpile-focus-on-india",
+        "mainAlt": "China conflicts with neighbour countries",
+        "mainImage": "china_disputes.png", 
+        
+        "description": "Introduction:<br>China's nuclear arsenal is expanding rapidly, as reported by the Stockholm International Peace Research Institute (SIPRI). Between last year and this year, China’s nuclear stockpile has grown from 410 warheads to 500. This significant increase raises critical questions about the intended target of this buildup.<br><br>China's Border Disputes:<br>China shares borders with 14 countries and has disputes with almost all of them. Major conflicts include:<br><br>Taiwan: China claims sovereignty over Taiwan.<br>Philippines: Disputes over the Scarborough Reef and Spratly Islands in the South China Sea.<br>Vietnam, Brunei, Malaysia: Competing claims in the South China Sea.<br>South Korea: Dispute over Socotra Rock in the Yellow Sea.<br>Japan: Conflict over the Senkaku Islands in the East China Sea.<br>Indonesia: Dispute over Natuna Islands.<br>Bhutan: Unresolved border issues.<br>Nepal: Encroachment on 36 hectares of land.<br>India: Border disputes along the Himalayas.<br>Russia: Historical border clashes.<br><br>Nuclear Alert Status:<br>For the first time, China has placed some of its nuclear warheads on \"high operational alert,\" deploying at least 24 warheads on missiles. This raises concerns about the potential targets of these nuclear weapons.<br><br>Potential Targets:<br>Small Non-Nuclear States: Unlikely targets due to China's conventional military superiority.<br>Russia: Despite historical disputes, the strong relationship between Xi Jinping and Vladimir Putin and their mutual stance against nuclear war suggest this is unlikely.<br>United States: China’s nuclear capability is still far behind the US, making a nuclear confrontation with America highly improbable.<br>India: With ongoing border tensions and skirmishes, India is a plausible target for China’s theater nuclear systems, which are designed for short-range strikes against immediate neighbors.<br><br>India's Response:<br>India is also enhancing its nuclear capabilities, with a growing emphasis on reaching targets throughout China. India’s nuclear policy is evolving to potentially move away from a strict no-first-use stance, depending on circumstances.<br><br>Conclusion:<br>China's rapid nuclear buildup and the strategic placement of warheads indicate a shift in its military posture. While smaller, non-nuclear states and allies like Russia are unlikely targets, the United States and India remain the most plausible focal points of China's expanded arsenal. This development necessitates increased preparedness and strategic adjustments, particularly for India, to counter potential threats.",
+        "media": [
+        {
+          "type": "image",
+          "url": "china_disputes.png"
+        }
+      ]
+      },
+      {
       "id": 1,
       "title": "Russia's Strategic Moves: Nuclear Drills and Deployments Amid Tensions",
       "type": "News",
