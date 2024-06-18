@@ -1,5 +1,21 @@
 [
-    
+    {
+        "id": 1,
+        "title": "White House Accuses Republicans of Editing Videos in Misinformation Campaign Against President Biden",
+        "type": "News",
+        "content": "White House Accuses Republicans of Misinformation Campaign with Edited Biden Videos",
+        "date": "June 18, 2024",
+        "slug": "white-house-accuses-republicans-misinformation-biden-videos",
+        "mainAlt": "White House Slams Republicans for Misinformation Using Edited Videos of Biden",
+        "mainImage": "biden_kerry.png", 
+        "description": "The White House has accused Republicans of selectively editing videos to portray President Joe Biden negatively. This misinformation campaign includes a recent incident where Republicans claimed Biden had to be led off the stage by former President Barack Obama due to confusion at a fundraising event. The White House has condemned these edited videos, calling them \"cheap fixes.\"<br><br>White House Press Secretary Karine Jean-Pierre criticized the edited videos, stating, \"They're done in bad faith. Some news organizations have stressed that these right-wing critics of the President have a credibility problem because fact-checkers have repeatedly caught them pushing misinformation and disinformation.\"<br><br>In response, the Republican National Committee (RNC) announced on social media that they would continue to post such videos of President Biden, including clips from the G7 summit. One video showed Biden walking away from world leaders, but a wider shot revealed he was talking to a skydiver.<br><br>The mental acuity of both President Joe Biden, aged 81, and his 78-year-old opponent Donald Trump, is a significant topic ahead of the presidential elections. Opinion polls indicate that Biden faces more public doubt over his age. Later this month, Biden is set to face Trump in the first televised debate.<br><br>The controversy over edited videos and misinformation highlights the contentious nature of the upcoming presidential election, with both parties scrutinizing the mental fitness and public perception of the candidates.",
+         "media": [
+        {
+          "type": "image",
+          "url": "biden_kerry.png"
+        }
+      ]
+      },
     {
         "id": 1,
         "title": "Understanding China's Expanding Nuclear Arsenal: Aimed at Which Country",
@@ -9,7 +25,6 @@
         "slug": "china-expanding-nuclear-stockpile-focus-on-india",
         "mainAlt": "China conflicts with neighbour countries",
         "mainImage": "china_disputes.png", 
-        
         "description": "Introduction:<br>China's nuclear arsenal is expanding rapidly, as reported by the Stockholm International Peace Research Institute (SIPRI). Between last year and this year, China’s nuclear stockpile has grown from 410 warheads to 500. This significant increase raises critical questions about the intended target of this buildup.<br><br>China's Border Disputes:<br>China shares borders with 14 countries and has disputes with almost all of them. Major conflicts include:<br><br>Taiwan: China claims sovereignty over Taiwan.<br>Philippines: Disputes over the Scarborough Reef and Spratly Islands in the South China Sea.<br>Vietnam, Brunei, Malaysia: Competing claims in the South China Sea.<br>South Korea: Dispute over Socotra Rock in the Yellow Sea.<br>Japan: Conflict over the Senkaku Islands in the East China Sea.<br>Indonesia: Dispute over Natuna Islands.<br>Bhutan: Unresolved border issues.<br>Nepal: Encroachment on 36 hectares of land.<br>India: Border disputes along the Himalayas.<br>Russia: Historical border clashes.<br><br>Nuclear Alert Status:<br>For the first time, China has placed some of its nuclear warheads on \"high operational alert,\" deploying at least 24 warheads on missiles. This raises concerns about the potential targets of these nuclear weapons.<br><br>Potential Targets:<br>Small Non-Nuclear States: Unlikely targets due to China's conventional military superiority.<br>Russia: Despite historical disputes, the strong relationship between Xi Jinping and Vladimir Putin and their mutual stance against nuclear war suggest this is unlikely.<br>United States: China’s nuclear capability is still far behind the US, making a nuclear confrontation with America highly improbable.<br>India: With ongoing border tensions and skirmishes, India is a plausible target for China’s theater nuclear systems, which are designed for short-range strikes against immediate neighbors.<br><br>India's Response:<br>India is also enhancing its nuclear capabilities, with a growing emphasis on reaching targets throughout China. India’s nuclear policy is evolving to potentially move away from a strict no-first-use stance, depending on circumstances.<br><br>Conclusion:<br>China's rapid nuclear buildup and the strategic placement of warheads indicate a shift in its military posture. While smaller, non-nuclear states and allies like Russia are unlikely targets, the United States and India remain the most plausible focal points of China's expanded arsenal. This development necessitates increased preparedness and strategic adjustments, particularly for India, to counter potential threats.",
         "media": [
         {
