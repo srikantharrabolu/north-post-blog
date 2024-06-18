@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Breaking News: Justin Timberlake Arrested for DUI in Sag Harbor, New York",
+        "type": "News",
+        "content": "Justin Timberlake, the actor and singer, has been arrested on charges of driving under the influence (DUI)",
+        "date": "June 18, 2024",
+        "slug": "justin-timberlake-arrested-dui-sag-harbor",
+        "mainAlt": "Justin Timberlake Arrested for DUI in Sag Harbor, New York",
+        "mainImage": "timberlake.png",
+        "description": "The Associated Press confirms that singer Justin Timberlake was arrested last night on charges of driving while intoxicated in Sag Harbor, New York. This incident occurred about 100 miles east of Manhattan.<br><br>Law enforcement officials speaking with the AP provided limited information but confirmed that Timberlake will be arraigned later today. The arraignment is expected to take place around 11 am Eastern Time in Sag Harbor, located on the eastern end of Long Island.<br><br>Sag Harbor is a popular destination in Long Island, known for its affluent towns such as Southampton, Bridgehampton, and East Hampton. These areas are frequented by celebrities and visitors during the summer months of June, July, and August.<br><br>Stay tuned for more updates on Justin Timberlake’s arrest and the developments from the court arraignment later today.",
+            "media": [
+        {
+          "type": "image",
+          "url": "timberlake.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "White House Accuses Republicans of Editing Videos in Misinformation Campaign Against President Biden",
         "type": "News",
         "content": "White House Accuses Republicans of Misinformation Campaign with Edited Biden Videos",
