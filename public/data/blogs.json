@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Nalanda University New Campus Inauguration: Reviving Ancient Excellence",
+        "type": "News",
+        "content": "Discover the inauguration of Nalanda University's new campus by PM Modi, marking a revival of its ancient legacy as a global hub of learning and cultural exchange",
+        "date": "June 19, 2024",
+        "slug": "nalanda-university-new-campus-inauguration-revival",
+        "mainAlt": "Nalanda University inauguration ceremony with PM Modi and dignitaries, celebrating the revival of global education and cultural exchange",
+        "mainImage": "nalanda.png",
+            "description": "Prime Minister Narendra Modi inaugurated the new campus of Nalanda University in Rajgir, Bihar today. This historic site, dating back 1600 years, has been meticulously developed to restore its legacy as a hub of global learning. Joining PM Modi were External Affairs Minister S. Jaishankar and ambassadors from 17 partner countries, alongside Bihar Governor and Chief Minister Nitish Kumar.<br><br>In his keynote address, Minister Jaishankar highlighted the significance of Nalanda University's new campus in fostering international ties through education and capacity building. Founded in the 5th century, Nalanda attracted scholars from across Asia, boasting 2000 teachers and 10,000 students from China, Korea, Japan, Tibet, Sri Lanka, and beyond. The university was renowned for subjects like medicine, Buddhism, mathematics, and Indian philosophy.<br><br>Efforts to revive Nalanda began in earnest in 2006 when former President Dr. Abdul Kalam proposed its reestablishment. The Nalanda University Bill of 2010 paved the way, with operations commencing in 2014 at a temporary site. In 2016, the foundation stone for the permanent campus was laid, and construction began in 2017. Spanning 100 acres, the new campus boasts eco-friendly architecture with a net-zero carbon footprint, including a 1.2 megawatt biogas-based energy plant nearing completion.<br><br>The campus features two academic blocks housing 40 classrooms and can accommodate up to 1900 students, along with administrative buildings and auditoriums seating 300. Residential amenities include 197 housing units for faculty and students, ensuring comfort and convenience.<br><br>The revival of Nalanda University underscores India's commitment to promoting global education and cultural exchange. Minister Jaishankar emphasized that education and training are pivotal in enhancing international understanding and cooperation.<br><br>The inauguration ceremony witnessed a gathering of dignitaries from ASEAN countries and other global partners, underscoring the university's potential as a catalyst for renewed intellectual and diplomatic connections.<br><br>Nalanda University's journey from ancient glory to modern resurgence exemplifies India's dedication to preserving its rich heritage while embracing sustainable development and global engagement. As the new campus opens its doors, it stands poised to once again become a beacon of knowledge and cross-cultural exchange in the 21st century.<br><br>This milestone reaffirms Nalanda's position not just as a center of learning but as a symbol of India's enduring commitment to academic excellence and international collaboration.",
+            "media": [
+        {
+          "type": "image",
+          "url": "nalanda.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Nvidia Surpasses Apple and Microsoft as the Most Valuable Company in the World: An Underdog Story: A Historic Rise to the Top of the Stock Market",
         "type": "News",
         "content": "Discover how Nvidia, a once underdog chipmaker, has surpassed Apple and Microsoft to become the world's most valuable company with a market valuation of $3.34 trillion. Learn about its rapid rise, AI dominance, and future prospects",
