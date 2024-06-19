@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Netanyahu Accuses Biden of Delaying Arms Shipments Amid Israel-Iran Tensions",
+        "type": "News",
+        "content": "Prime Minister Netanyahu accuses the Biden administration of delaying arms shipments to Israel, amid rising tensions with Iran and Iranian-backed Hezbollah, sparking political debate in the US",
+        "date": "June 19, 2024",
+        "slug": "netanyahu-biden-arms-shipments-israel-iran-tensions",
+        "mainAlt": "Netanyahu Blames Biden Administration for Delayed Arms Shipments Amid Israel-Iran Tensions",
+        "mainImage": "neta.png",
+            "description": "Prime Minister Benjamin Netanyahu criticizes the Biden administration for allegedly delaying arms shipments to Israel, amidst rising tensions with Iran and Iranian-backed Hezbollah.<br><br>* Message to Biden: Netanyahu stated, \"Give us the tools, and we'll finish the job a lot faster,\" echoing Winston Churchill's WWII plea to the US.<br><br>* Delayed Shipments: He claims the White House is withholding weapons and ammunition crucial for Israel's defense against common enemies like Iran.<br><br>* Blinken's Assurance: Secretary of State Antony Blinken acknowledged a brief delay in one shipment but assured that other shipments are in process and the US remains committed to Israel's security.<br><br>* White House Reaction: Reports suggest that the White House canceled a high-level meeting with Israeli officials over long-term Iran policy, expressing frustration with Netanyahu's public comments.<br><br>* Domestic Pressure: Some Democrats urge President Biden to withhold weapons to push for a peace deal, while Republicans, like Senate Minority Leader Mitch McConnell, accuse the president of letting election year politics interfere with Israel's defense needs.<br><br>* Mitch McConnell's Critique: McConnell emphasizes that Israel should operate based on tactical realities in the Middle East, not Washington's political climate.<br><br>* Hezbollah Threat: Amid increasing threats from Iranian-backed Hezbollah on its northern border, Israel faces significant security challenges.<br><br>* US Diplomatic Efforts: US envoy Amos Hochstein is actively working to prevent a full-scale war between Israel and Hezbollah.<br><br>* Military Developments: The IDF has approved operational plans for a potential offensive in Lebanon against Hezbollah, highlighting the urgency of the situation.<br><br>Netanyahu's call for expedited arms shipments underscores the heightened security concerns in Israel, while the US administration balances domestic political pressures and its commitment to Israeli defense.",
+             "media": [
+        {
+          "type": "image",
+          "url": "neta.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Biden's Immigration Policy Post-2024 Elections: Citizenship for Undocumented Immigrants",
         "type": "News",
         "content": "President Joe Biden's new immigration policy grants citizenship to certain undocumented immigrants, sparking political debate with former President Donald Trump and other Republicans.",
@@ -9,7 +26,7 @@
         "mainAlt": "Biden Announces New Immigration Policy for Undocumented Spouses and Children of US Citizens",
         "mainImage": "biden_immigration.png",
             "description": "Immigration remains a pivotal issue following the 2024 US presidential elections, as current President Joe Biden and former President Donald Trump present contrasting views on the matter.<br><br>Biden's New Immigration Policy<br>* Policy Announcement: President Joe Biden has announced a new policy to grant citizenship to hundreds of undocumented immigrants in the US. This action aims to balance his recent stringent measures at the southern border, which have upset various Democratic lawmakers.<br><br>* Details of the Policy: The policy will allow certain undocumented spouses of US citizens to apply for permanent residency without having to leave the country. Additionally, it will apply to families who have been living in the US for at least 10 years.<br><br>* Biden's Statement: Biden emphasized the importance of keeping families together, stating, \"We can fix that. And that's what I'm going to do today.\"<br><br>* Federal Protection Expansion: This move is one of the most extensive federal protections for migrants in over a decade.<br><br>* Eligibility: The program is estimated to benefit 500,000 spouses and 50,000 children under 21 with a US citizen parent who have lived in the US for at least 10 years as of June 17.<br><br>* Republican Criticism: Republicans, including former President Donald Trump, criticize the policy as \"mass amnesty\" and argue it will encourage more illegal immigration.<br><br>* Balancing Act: Biden defends his policy by emphasizing a balance between border security and providing legal pathways to citizenship.<br><br>* Legal Challenges: The policy may face legal battles, as House Speaker Mike Johnson predicts, with Republicans asserting it undermines enforcement policies.<br><br>Biden's immigration policy has ignited a significant political debate, highlighting the contrasting approaches of Biden and Trump towards immigration and the future of US border security and migrant rights.",
-                  "media": [
+            "media": [
         {
           "type": "image",
           "url": "biden_immigration.png"
