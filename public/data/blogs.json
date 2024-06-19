@@ -1,6 +1,40 @@
 [
     {
         "id": 1,
+        "title": "Breaking News: Extreme Heat Claims Over 550 Lives During Hajj Pilgrimage, 68 Indians Among Casualties",
+        "type": "News",
+        "content": "Extreme heat during the Hajj pilgrimage in Saudi Arabia has resulted in over 550 deaths, including 68 Indians. The pilgrimage, taking place during sweltering summer months, highlights the need for improved safety measures",
+        "date": "June 19, 2024",
+        "slug": "extreme-heat-hajj-pilgrimage-550-lives-lost-68-indians",
+        "mainAlt": "Over 550 Pilgrims, Including 68 Indians, Die Due to Extreme Heat During Hajj",
+        "mainImage": "haji.png",
+            "description": "Extreme heat during the Hajj pilgrimage in Saudi Arabia has resulted in the tragic loss of more than 550 lives, with 68 Indians among the casualties. The pilgrimage, one of the five pillars of Islam, has been taking place during the sweltering summer months in recent years, adding to the challenges faced by pilgrims.<br><br>* Casualties: Over 550 people have succumbed to extreme heat during the Hajj pilgrimage, including 68 Indians.<br><br>* Timing and Conditions: The Hajj has coincided with the harsh summer season in Saudi Arabia, exacerbating the risk for millions of pilgrims.<br><br>* Significance of Hajj: As one of the five pillars of Islam, the Hajj is a mandatory religious duty for all Muslims who are physically and financially able to undertake the journey at least once in their lifetime.<br><br>* Health Risks: The extreme temperatures pose significant health risks, particularly to elderly and vulnerable pilgrims, emphasizing the need for improved safety measures.<br><br>* Government Response: Authorities are urged to take additional precautions and provide better facilities to protect pilgrims from the severe heat.<br><br>The severe heat during the Hajj pilgrimage underscores the pressing need for enhanced safety measures to protect the millions of Muslims fulfilling this sacred religious duty. The loss of life, including 68 Indians, is a tragic reminder of the challenges posed by extreme weather conditions.",
+            "media": [
+        {
+          "type": "image",
+          "url": "haji.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
+        "title": "US Lawmakers Meet Dalai Lama, Discuss Tibet Resolve Act Amid China Tensions",
+        "type": "News",
+        "content": "US lawmakers, led by Michael McCaul and Nancy Pelosi, meet the Dalai Lama in India, pushing the Tibet Resolve Act to press China on Tibet's freedom. China's response and potential impacts on US-China relations discussed.",
+        "date": "June 19, 2024",
+        "slug": "us-lawmakers-meet-dalai-lama-tibet-resolve-act-china-tensions",
+        "mainAlt": "US Lawmakers Meet Dalai Lama, Push Tibet Resolve Act Amid China Tensions",
+        "mainImage": "dalai.png",
+            "description": "A group of US lawmakers has arrived in India to meet Tibetan spiritual leader, the Dalai Lama, with discussions focusing on the Tibet Resolve Act, which aims to press China to resolve the Tibet dispute. The delegation, led by US House Foreign Affairs Committee Chairman Michael McCaul, includes former House Speaker Nancy Pelosi and other prominent congressional members.<br><br>* Meeting with the Dalai Lama: Nancy Pelosi called the meeting a blessing and emphasized the significance of the Tibet Resolve Act as a strong message to China regarding Tibet's freedom.<br><br>* Tibet Resolve Act: The act, recently passed by the US Congress, calls on Beijing to engage with Tibetan government officials in exile and urges the US State Department to counter Chinese misinformation.<br><br>* Nancy Pelosi's Statement: Pelosi asserted that the act sends a clear message to China about the US's stance on Tibet's freedom and expressed admiration for the Dalai Lama's message of peace and compassion.<br><br>* Dalai Lama's Middle Way Approach: The Dalai Lama continues to advocate for a negotiated, nonviolent solution to the Tibet-China conflict.<br><br>* China's Reaction: China criticized the visit and threatened measures in response, maintaining its stance that Tibet is part of China and urging countries to reaffirm the one-China policy.<br><br>US Lawmakers' Visit to Dharamshala<br><br>* Public Reception and Talks: The delegation received a public reception in Dharamshala, where discussions emphasized the Dalai Lama's global role and the importance of his peaceful message.<br><br>* Impact on US-China Relations: The visit underscores the US Congress's commitment to the Tibetan cause, but it raises concerns about its potential impact on the improving US-China relationship, especially in an election year.<br><br>The meeting between US lawmakers and the Dalai Lama highlights ongoing international support for Tibet amid tensions with China, emphasizing the US's commitment to advocating for Tibetan freedom and countering Chinese misinformation.",
+            "media": [
+        {
+          "type": "image",
+          "url": "dalai.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Netanyahu Accuses Biden of Delaying Arms Shipments Amid Israel-Iran Tensions",
         "type": "News",
         "content": "Prime Minister Netanyahu accuses the Biden administration of delaying arms shipments to Israel, amid rising tensions with Iran and Iranian-backed Hezbollah, sparking political debate in the US",
