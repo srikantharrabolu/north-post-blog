@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "US Government Sues Adobe Over Deceptive Subscription Practices",
+        "type": "News",
+        "content": "The US government is suing Adobe for deceptive subscription practices, highlighting broader issues in the subscription economy. Learn how consumers are affected and tips to avoid hidden fees",
+        "date": "June 19, 2024",
+        "slug": "us-government-sues-adobe-deceptive-subscription-practices",
+        "mainAlt": "US Government Lawsuit Against Adobe Over Deceptive Subscription Practices",
+        "mainImage": "adobe.png",
+            "description": "The US government is suing Adobe for deceptive subscription practices, shining a light on the broader issues within the subscription economy. An average American spends about $1,000 annually on subscriptions, often without realizing the complexities involved in canceling them.<br><br>* Adobe's Deceptive Practices: The US government accuses Adobe of hiding hefty termination fees and making it difficult for customers to cancel subscriptions.<br><br>* Subscription Economy Growth: Over the past decade, the subscription economy has quadrupled, with consumers often forgetting or being unaware of recurring charges.<br><br>* Consumer Awareness: Nearly 75% of consumers forget about monthly charges, and 42% do not know how many subscriptions they have, leading to significant revenue boosts for companies.<br><br>* Legal Actions: The Justice Department's lawsuit against Adobe highlights the need for greater transparency in the subscription economy.<br><br>* Consumer Tips It is crucial for consumers to read the fine print and be aware of hidden fees when subscribing to services.<br><br>*The lawsuit against Adobe underscores the challenges consumers face in the subscription economy. As subscriptions become more prevalent, it is essential to stay informed and vigilant to avoid unnecessary charges.",
+             "media": [
+        {
+          "type": "image",
+          "url": "adobe.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Breaking News: Extreme Heat Claims Over 550 Lives During Hajj Pilgrimage, 68 Indians Among Casualties",
         "type": "News",
         "content": "Extreme heat during the Hajj pilgrimage in Saudi Arabia has resulted in over 550 deaths, including 68 Indians. The pilgrimage, taking place during sweltering summer months, highlights the need for improved safety measures",
