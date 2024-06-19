@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Biden's Immigration Policy Post-2024 Elections: Citizenship for Undocumented Immigrants",
+        "type": "News",
+        "content": "President Joe Biden's new immigration policy grants citizenship to certain undocumented immigrants, sparking political debate with former President Donald Trump and other Republicans.",
+        "date": "June 19, 2024",
+        "slug": "biden-immigration-policy-2024-citizenship",
+        "mainAlt": "Biden Announces New Immigration Policy for Undocumented Spouses and Children of US Citizens",
+        "mainImage": "biden_immigration.png",
+            "description": "Immigration remains a pivotal issue following the 2024 US presidential elections, as current President Joe Biden and former President Donald Trump present contrasting views on the matter.<br><br>Biden's New Immigration Policy<br>* Policy Announcement: President Joe Biden has announced a new policy to grant citizenship to hundreds of undocumented immigrants in the US. This action aims to balance his recent stringent measures at the southern border, which have upset various Democratic lawmakers.<br><br>* Details of the Policy: The policy will allow certain undocumented spouses of US citizens to apply for permanent residency without having to leave the country. Additionally, it will apply to families who have been living in the US for at least 10 years.<br><br>* Biden's Statement: Biden emphasized the importance of keeping families together, stating, \"We can fix that. And that's what I'm going to do today.\"<br><br>* Federal Protection Expansion: This move is one of the most extensive federal protections for migrants in over a decade.<br><br>* Eligibility: The program is estimated to benefit 500,000 spouses and 50,000 children under 21 with a US citizen parent who have lived in the US for at least 10 years as of June 17.<br><br>* Republican Criticism: Republicans, including former President Donald Trump, criticize the policy as \"mass amnesty\" and argue it will encourage more illegal immigration.<br><br>* Balancing Act: Biden defends his policy by emphasizing a balance between border security and providing legal pathways to citizenship.<br><br>* Legal Challenges: The policy may face legal battles, as House Speaker Mike Johnson predicts, with Republicans asserting it undermines enforcement policies.<br><br>Biden's immigration policy has ignited a significant political debate, highlighting the contrasting approaches of Biden and Trump towards immigration and the future of US border security and migrant rights.",
+                  "media": [
+        {
+          "type": "image",
+          "url": "biden_immigration.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Putin and Kim Jong Un Alarm the West with New Agreement: Russia-North Korea's NATO-Like Mutual Defense Pact",
         "type": "News",
         "content": "Putin and Kim Jong Un's new NATO-like mutual defense pact between Russia and North Korea shocks the West, signaling a deepening strategic alliance",
