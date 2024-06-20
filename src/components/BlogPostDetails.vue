@@ -51,9 +51,9 @@
           useHead({
             title: this.post.title,
             meta: [
-            { name: 'content', content: this.post.content },
+            { name: 'description', content: this.post.content },
               { property: 'og:title', content: this.post.title },
-              { property: 'og:content', content: this.post.content },
+              { property: 'og:description', content: this.post.content },
               { property: 'og:image', content: `https://www.northpostglobal.com/images/${post.mainImage}` },
               
             ]
