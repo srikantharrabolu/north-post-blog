@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "US President Joe Biden to Decide on Tibet Policy Amid China's Warning",
+        "type": "News",
+        "content": "President Biden to Decide on Tibet Policy Following US Lawmakers' Meeting with Dalai Lama",
+        "date": "June 20, 2024",
+        "slug": "biden-tibet-policy-decision-dalai-lama",
+        "mainAlt": "President Biden is set to decide on the Tibet policy bill after US lawmakers met the Dalai Lama, defying China's warnings. The Resolve Tibet Act calls for peaceful resolution and resumption of talks between China and Tibetan leaders",
+        "mainImage": "dalai.png",
+        "description": "US President Joe Biden is set to make a decision he believes is in the best interest of the United States, following a recent meeting between US lawmakers and the Dalai Lama in India. The White House emphasized Biden’s commitment to American interests despite China’s warnings against the Tibet policy bill.<br><br>White House Response to China:<br>White House Press Secretary Karine Jean-Pierre responded to China's warning by stating, \"The President is going to do what he thinks is best on behalf of the American people. That's what I can tell you.\"<br><br>Lawmakers' Stance on Tibet:<br>US Congress delegates affirmed their opposition to Chinese influence over the Dalai Lama’s successor. They signaled intentions to pressure Beijing into resuming stalled talks with Tibetan leaders since 2010, aiming for a resolution on Tibet’s status and governance.<br><br>The Resolve Tibet Act:<br>The US Congress passed the Resolve Tibet Act, urging a peaceful resolution of the Tibet dispute. The legislation empowers State Department officials to counter disinformation about Tibet and rejects China's historical claims over Tibet. It advocates for negotiations without preconditions between the Chinese government and Tibetan leaders, including the Dalai Lama or his representatives.<br><br>US Congressional Delegation's Visit to India:<br>A bipartisan US congressional delegation, including former House Speaker Nancy Pelosi, met the Dalai Lama in Dharamshala, India, sparking anger from China. The delegation’s visit underscores ongoing US support for the Tibetan cause, challenging Beijing’s stance on the exiled spiritual leader.<br><br>Conclusion:<br>President Biden’s impending decision on the Tibet policy bill reflects a broader US commitment to supporting Tibetan autonomy and countering Chinese disinformation, amidst escalating tensions with China over the issue.",
+        "media": [
+        {
+          "type": "image",
+          "url": "dalai.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Nalanda University New Campus Inauguration: Reviving Ancient Excellence",
         "type": "News",
         "content": "Discover the inauguration of Nalanda University's new campus by PM Modi, marking a revival of its ancient legacy as a global hub of learning and cultural exchange",
