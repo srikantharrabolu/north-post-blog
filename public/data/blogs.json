@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Putin Visits Vietnam to Strengthen Defense Ties Amid Increasing Western Sanctions",
+        "type": "News",
+        "content": "Russian President Vladimir Putin visits Vietnam to deepen defense ties and sign cooperation agreements amid increasing Western sanctions. Vietnam expresses a desire to boost defense cooperation while maintaining a balanced stance on the Ukraine crisis.",
+        "date": "June 20, 2024",
+        "slug": "putin-vietnam-visit-defense-cooperation",
+        "mainAlt": "Russian President Vladimir Putin with Vietnamese President Võ Văn Thưởng during state visit",
+        "mainImage": "putin_vietnam.png",
+            "description": "Russian President Vladimir Putin visited Hanoi, Vietnam, pledging to deepen ties and bolster alliances to boost defense cooperation. This visit follows his summit with North Korea’s Kim Jong Un.<br><br>Vietnam Visit Highlights:<br>Putin’s visit to Vietnam, a long-standing ally since the Cold War, included the signing of multiple agreements. These agreements covered bilateral cooperation in oil and gas, nuclear science, and education. Vietnamese President Võ Văn Thưởng praised the traditional friendship with Russia, emphasizing Vietnam’s view of Russia as a crucial partner.<br><br>Defense Cooperation:<br>While Vietnam did not issue a clear public declaration of support for Russia regarding Ukraine, President Thưởng expressed a desire to enhance defense cooperation. Putin highlighted the interest in building a reliable security architecture in the Asia-Pacific region and mentioned Russian investments in Vietnam’s liquefied natural gas projects.<br><br>Vietnam's Stance on Ukraine:<br>Vietnam has abstained from UN votes condemning the Russian invasion of Ukraine. In an op-ed for the Communist Party’s mouthpiece Nhân Dân, Putin thanked Hanoi for its balanced stance on the crisis.<br><br>Context of the Visit:<br>Putin’s Asia tour, including the Vietnam visit, comes as Western countries increase sanctions on Russia due to its actions in Ukraine. Recent sanctions were announced by the United States, Britain, and the European Union, with G7 countries agreeing to use profits from frozen Russian assets for a new $50 billion loan to Ukraine.<br><br>Conclusion:<br>Putin’s visit to Vietnam signifies Russia’s ongoing efforts to strengthen alliances in the Asia-Pacific region amidst growing Western sanctions and geopolitical tensions.",
+            "media": [
+        {
+          "type": "image",
+          "url": "putin_vietnam.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Netanyahu Accuses Ben Gvir of Leaking State Secrets Amid Cabinet Rift",
         "type": "News",
         "content": "Israeli Prime Minister Benjamin Netanyahu accuses far-right leader Itamar Ben Gvir of leaking state secrets, deepening the rift within the cabinet. Ben Gvir responds by blaming Netanyahu for the leaks",
