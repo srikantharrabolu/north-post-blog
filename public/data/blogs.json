@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Netanyahu Accuses Ben Gvir of Leaking State Secrets Amid Cabinet Rift",
+        "type": "News",
+        "content": "Israeli Prime Minister Benjamin Netanyahu accuses far-right leader Itamar Ben Gvir of leaking state secrets, deepening the rift within the cabinet. Ben Gvir responds by blaming Netanyahu for the leaks",
+        "date": "June 20, 2024",
+        "slug": "netanyahu-ben-gvir-leaking-state-secrets",
+        "mainAlt": "Israeli Prime Minister Benjamin Netanyahu at a press conference",
+        "mainImage": "ben_gvir.png",
+            "description": "A rift in Israeli Prime Minister Benjamin Netanyahu's cabinet has deepened, with Netanyahu accusing far-right leader Itamar Ben Gvir of leaking state secrets. The tension arose after Ben Gvir demanded a position in the now-defunct war cabinet.<br><br>Leak Accusations:<br>The ruling Likud party accused Ben Gvir, a member of the Security Cabinet but not the war cabinet, of leaking state secrets. Reports suggested that Netanyahu had offered Ben Gvir sensitive security briefings in exchange for his support of a bill regulating municipal rubbish. Likud denied these reports, claiming inaccuracies and asserting that any member wanting to join the security consultation team must prove they are not leaking information.<br><br>Ben Gvir's Response:<br>Ben Gvir retaliated by accusing Netanyahu of leaking information from meetings. He claimed Netanyahu withdrew the rubbish regulation bill after realizing he lacked sufficient support. The National Unity Party criticized Netanyahu, arguing that a minister suspected of leaking state secrets should not control the Israeli police or hold a cabinet position.<br><br>Conclusion:<br>The accusations and counter-accusations highlight the growing tension within Netanyahu's cabinet, raising concerns about the stability and security of the Israeli government.",
+            "media": [
+        {
+          "type": "image",
+          "url": "ben_gvir.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "US President Joe Biden to Decide on Tibet Policy Amid China's Warning",
         "type": "News",
         "content": "President Biden to Decide on Tibet Policy Following US Lawmakers' Meeting with Dalai Lama",
