@@ -9,8 +9,8 @@
       </div>
       <div class="group relative mt-4">
         <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-          <a href="#">
-            <span class="absolute inset-0"></span>
+          <a href="#" @click.prevent="getBlogPage">
+            <span class="inset-0"></span>
             {{ post.title }}
           </a>
         </h3>
@@ -27,6 +27,12 @@ export default {
       required: true
     }
   },
+  methods: {
+    getBlogPage() {
+      this.$emit('get-blog-page');
+    }
+  }
+  
 }
 </script>
 

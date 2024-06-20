@@ -16,7 +16,7 @@
               v-for="post in filteredPosts"
               :key="post.id"
               :post="post"
-              @click="getBlog(post)"
+              @get-blog-page="getBlog(post)"
             />
           </div>
         </div>

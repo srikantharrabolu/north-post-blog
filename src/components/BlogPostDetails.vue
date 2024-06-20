@@ -57,7 +57,7 @@
                 },
                 {
                   property: 'og:image',
-                  content: `https://northpostglobal.com/images/${this.post.mainImage}`,
+                  content: `https://www.northpostglobal.com/images/${this.post.mainImage}`,
                 },
               ],
             });
