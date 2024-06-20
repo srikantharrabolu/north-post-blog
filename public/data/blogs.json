@@ -1,5 +1,22 @@
 [
     {
+        "id": 1,
+        "title": "Pastor Robert Morris Resigns Amid Child Sexual Abuse Allegations",
+        "type": "News",
+        "content": "Prominent evangelical pastor Robert Morris resigns from Gateway Church amid allegations of sexually abusing a child. Morris, a former Trump spiritual adviser, faces backlash after survivor Cindy Clemmer Shire detailed the abuse",
+        "date": "June 20, 2024",
+        "slug": "pastor-robert-morris-resigns-child-sexual-abuse-allegations",
+        "mainAlt": "Pastor Robert Morris at Gateway Church",
+        "mainImage":"trump_pastor.png",
+            "description": "Prominent evangelical pastor Robert Morris, founder of Gateway Church in Southlake, Texas, and former spiritual adviser to Donald Trump, has resigned following allegations of sexually abusing a child. Morris's resignation comes after the survivor, Cindy Clemmer Shire, publicly detailed the abuse, which began when she was 12 years old.<br><br>Background and Allegations:<br>Clemmer Shire revealed in a blog post that Morris, then a young traveling evangelist, molested her during Christmas in 1982, continuing the abuse over the next four and a half years. Morris initially described his actions as a \"moral failing\" with a \"young lady,\" but it was later clarified that the victim was a child. Morris resigned from Gateway Church in response to mounting pressure and outrage over his actions and the church's initial response.<br><br>Morris's Public Persona:<br>Morris had built a reputation around a narrative of redemption, often speaking about overcoming a moral failing. He framed the abuse as a consensual relationship and, at times, blamed the victim. His prominence in the evangelical community included close ties to Republican politics, advocating for Christian morality and endorsing figures like Donald Trump and Glenn Beck.<br><br>Public and Community Reaction:<br>The revelations have caused significant anger and frustration, especially among survivors and educators. Morris had previously warned about the dangers of grooming in schools and supported measures like Texas Governor Greg Abbott's bill to ban transgender individuals from using public bathrooms corresponding to their gender, citing the protection of children from sexual abuse.<br><br>Robert Morris's resignation amid child sexual abuse allegations has shocked the evangelical community. The incident highlights the importance of addressing and preventing abuse within religious institutions and the hypocrisy of those who use their platform to target marginalized communities while hiding their own misconduct.",
+            "media": [
+        {
+          "type": "image",
+          "url": "trump_pastor.png"
+        }
+      ]
+      },
+    {
     "id": 1,
     "title": "President Biden's Health and Mental Acuity Under Scrutiny After Latest White House Blunder",
     "type": "News",
