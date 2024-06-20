@@ -12,6 +12,11 @@ const routes = [
     path: '/post/:slug',
     name: 'BlogPostDetails',
     component: BlogPostDetails,
+    meta: {
+      title: 'Default Title',
+      content: 'Default Content',
+      image: 'Default Image URL'
+    },
     props: true
   }
 ];
@@ -20,5 +25,45 @@ const router = createRouter({
   history: createWebHistory(),
   routes
 });
+
+router.beforeEach(async (to, from, next) => {
+  if (to.name === 'BlogPostDetails' && to.params.slug) {
+    const dynamicMeta = await fetchDataBasedOnSlug(to.params.slug);
+    if (dynamicMeta) {
+      to.meta.title = dynamicMeta.title;
+      to.meta.content = dynamicMeta.content;
+      to.meta.image = dynamicMeta.image;
+    }
+  }
+  next();
+});
+
+async function fetchDataBasedOnSlug(slug) {
+  try {
+    const response = await fetch('/data/blogs.json');
+    const data = await response.json();
+    const post = data.find(post => post.slug === slug);
+    if (post) {
+      return {
+        title: post.title,
+        content: post.content,
+        image: `https://northpostglobal.com/images/${post.mainImage}`
+      };
+    } else {
+      return {
+        title: 'Default Title',
+        content: 'Default content',
+        image: 'Default Image URL'
+      };
+    }
+  } catch (error) {
+    console.error('Failed to fetch or process data:', error);
+    return {
+      title: 'Default Title',
+      content: 'Default content',
+      image: 'Default Image URL'
+    };
+  }
+}
 
 export default router;
