@@ -15,7 +15,7 @@ const routes = [
     meta: {
       title: 'Default Title',
       description: 'Default Content',
-      image: 'Default Image URL'
+      // image: 'Default Image URL'
     },
     props: true
   }
@@ -32,7 +32,7 @@ router.beforeEach(async (to, from, next) => {
     if (dynamicMeta) {
       to.meta.title = dynamicMeta.title;
       to.meta.description = dynamicMeta.description;
-      to.meta.image = dynamicMeta.image;
+      // to.meta.image = dynamicMeta.image;
     }
   }
   next();
@@ -47,13 +47,13 @@ async function fetchDataBasedOnSlug(slug) {
       return {
         title: post.title,
         description: post.content,
-        image: `https://northpostglobal.com/images/${post.mainImage}`
+        // image: `https://northpostglobal.com/images/${post.mainImage}`
       };
     } else {
       return {
         title: 'Default Title',
         description: 'Default content',
-        image: 'Default Image URL'
+        // image: 'Default Image URL'
       };
     }
   } catch (error) {
@@ -61,7 +61,7 @@ async function fetchDataBasedOnSlug(slug) {
     return {
       title: 'Default Title',
       description: 'Default content',
-      image: 'Default Image URL'
+      // image: 'Default Image URL'
     };
   }
 }

@@ -56,7 +56,7 @@
               { property: 'og:title', content: this.post.title },
               { property: 'og:description', content: this.post.content },
               { property: 'og:url', content: `https://northpostglobal.com/post/${this.post.slug}`},
-              { property: 'og:image:secure', content: `https://northpostglobal.com/images/${this.post.mainImage}` },
+              // { property: 'og:image:secure', content: `https://northpostglobal.com/images/${this.post.mainImage}` },
               
             ]
           });
