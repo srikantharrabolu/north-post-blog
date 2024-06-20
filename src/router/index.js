@@ -47,7 +47,7 @@ async function fetchDataBasedOnSlug(slug) {
       return {
         title: post.title,
         content: post.content,
-        image: `https://northpostglobal.com/images/${post.mainImage}`
+        image: `https://www.northpostglobal.com/images/${post.mainImage}`
       };
     } else {
       return {

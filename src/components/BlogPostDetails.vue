@@ -41,31 +41,28 @@
       this.fetchPost();
     },
     methods: {
-      async fetchPost() {
-        try {
-          const response = await fetch('/data/blogs.json');
-          const data = await response.json();
-          this.post = data.find(post => post.slug === this.$route.params.slug);
-  
-          if (this.post) {
-            useHead({
-              title: this.post.title,
-              meta: [
-                {
-                  name: 'content',
-                  content: this.post.content,
-                },
-                {
-                  property: 'og:image',
-                  content: `https://www.northpostglobal.com/images/${this.post.mainImage}`,
-                },
-              ],
-            });
-          }
-        } catch (error) {
-          console.error('Error fetching post:', error);
+    async fetchPost() {
+      try {
+        const response = await fetch('/data/blogs.json');
+        const data = await response.json();
+        this.post = data.find(post => post.slug === this.$route.params.slug);
+
+        if (this.post) {
+          useHead({
+            title: this.post.title,
+            meta: [
+            { name: 'content', content: this.post.content },
+              { property: 'og:title', content: this.post.title },
+              { property: 'og:content', content: this.post.content },
+              { property: 'og:image', content: `https://www.northpostglobal.com/images/${post.mainImage}` },
+              
+            ]
+          });
         }
-      },
+      } catch (error) {
+        console.error('Error fetching post:', error);
+      }
+    },
       onReady() {
         this.$refs.youtube.playVideo();
       },

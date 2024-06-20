@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white shadow-md rounded-lg overflow-hidden">
+  <div class="bg-white shadow-md rounded-lg overflow-hidden" @click.prevent="getBlogPage">
     <img :src="'/images/' + post.mainImage" :alt="post.mainAlt" class="w-full h-48 object-cover">
     
     <article class="flex flex-col items-start justify-between p-6">
@@ -9,7 +9,7 @@
       </div>
       <div class="group relative mt-4">
         <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-          <a href="#" @click.prevent="getBlogPage">
+          <a href="#">
             <span class="inset-0"></span>
             {{ post.title }}
           </a>
