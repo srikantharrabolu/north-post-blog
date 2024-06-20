@@ -1,25 +1,25 @@
 <template>
-  <Head>
+  <!-- <Head> -->
     <!-- Primary Meta Tags -->
-    <title>{{post.title}}</title>
+    <!-- <title>{{post.title}}</title>
     <meta name="title" :content="post.title" />
-    <meta name="description" :content="post.content" />
+    <meta name="description" :content="post.content" /> -->
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
+    <!-- <meta property="og:type" content="website" />
     <meta property="og:url" :content="`https://northpostglobal.com/post/${post.url}`" />
     <meta property="og:title" :content="post.title" />
     <meta property="og:description" :content="post.content" />
-    <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+    <meta property="og:image" content="https://metatags.io/images/meta-tags.png" /> -->
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
+    <!-- <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" :content="`https://northpostglobal.com/post/${post.url}`" />
     <meta property="twitter:title" :content="post.title" />
     <meta property="twitter:description" :content="post.content" />
-    <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+    <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" /> -->
 
     <!-- Meta Tags Generated with https://metatags.io -->
-  </Head>
+  <!-- </Head> -->
     <div class="container mx-auto py-8">
       <button @click="navigateToHome" class="bg-gray-800 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
         Back to Home
