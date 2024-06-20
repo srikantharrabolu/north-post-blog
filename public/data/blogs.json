@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Breaking News: Josh Hawley Ruthlessly Grills Boeing CEO Over Resignation Amid Safety Concerns",
+        "type": "News",
+        "content": "Boeing CEO David Calhoun faces tough questions from the Senate regarding safety practices, whistleblower claims, and his substantial compensation package, highlighting concerns over corporate governance and accountability.",
+        "date": "June 20, 2024",
+        "slug": "boeing-ceo-senate-scrutiny-safety-compensation",
+        "mainAlt": "Senate inquiry questions Boeing CEO on safety lapses and compensation amidst whistleblower allegations.",
+        "mainImage":"boeing_ceo.png",
+            "description": "In a recent Senate hearing, Boeing CEO David Calhoun faced intense scrutiny over his compensation package, safety record, and company practices. The hearing, marked by heated exchanges, highlighted concerns about Boeing's commitment to safety and transparency amidst ongoing investigations and whistleblower allegations.<br><br>Compensation and Accountability<br>Senator queries revealed that Calhoun's compensation totaled a staggering $32.8 million this year, marking a 45% increase from the previous year. This substantial figure prompted questions about whether such compensation aligns with Boeing's performance in critical areas like safety and quality.<br><br>Safety Concerns and Whistleblower Allegations<br>Central to the inquiry were safety lapses and whistleblower claims against Boeing. Senators referenced incidents such as the falsification of inspection records for the 787, criminal investigations related to safety protocols, and the infamous incidents involving the 737 Max crashes. Whistleblowers alleged that safety inspections were reduced, quality control undermined, and concerns dismissed, painting a troubling picture of Boeing's internal practices under Calhoun's leadership.<br><br>Transparency and Corporate Governance<br>Criticism also focused on Boeing's transparency and governance. Despite claims of improved transparency, issues such as inadequate response to safety recommendations from the FAA after the Max crashes persisted. The hearing underscored the need for comprehensive oversight and accountability in Boeing's operations, especially in light of ongoing legal and regulatory challenges.<br><br>Calhoun's Responses and Defense<br>Throughout the hearing, Calhoun defended Boeing's safety record, emphasizing his commitment to implementing necessary changes and working closely with regulators. He refuted allegations of neglecting safety, pointing to increased investments in quality inspectors and ongoing efforts to enhance safety protocols.<br><br>Impact on Stakeholders and the Public Perception<br>The Senate hearing shed light on the broader implications of Boeing's practices, affecting not only shareholders and employees but also public trust and safety. Instances of safety lapses and whistleblower claims have eroded confidence in Boeing's ability to uphold rigorous safety standards, posing risks to passengers and aviation stakeholders globally.<br><br>Calls for Accountability and Change<br>As the hearing concluded, calls for accountability grew louder. Senators expressed dismay over the discrepancies between Calhoun's compensation and Boeing's operational challenges. The session highlighted a pressing need for Boeing to prioritize safety, transparency, and quality assurance in its corporate strategy moving forward.",
+            "media": [
+        {
+          "type": "image",
+          "url": "boeing_ceo.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Biden Leads Trump in Latest Polling Ahead of Debate",
         "type": "News",
         "content": "Ahead of the upcoming debate between President Biden and Donald Trump, new polls reveal Biden's gains among independent voters and the importance of issues like democracy and the economy in shaping voter preferences.",
