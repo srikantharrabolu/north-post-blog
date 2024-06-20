@@ -1,5 +1,22 @@
 [
     {
+    "id": 1,
+    "title": "President Biden's Health and Mental Acuity Under Scrutiny After Latest White House Blunder",
+    "type": "News",
+    "content": "President Biden's latest White House blunder raises concerns about his health and mental acuity. Critics argue his cognitive state is deteriorating, impacting his re-election chances. Upcoming debate and potential administration changes will be crucial.",
+    "date": "June 20, 2024",
+    "slug": "president-biden-health-mental-acuity-white-house-blunder",
+    "mainAlt": "President Joe Biden during a speech at the White House",
+    "mainImage":"biden_awkward.png",
+        "description": "President Joe Biden experienced another awkward moment at the White House, raising concerns about his health and mental acuity. This incident involved DHS Secretary Alejandro Mayorkas and has sparked widespread discussion about Biden's ability to lead, especially given his age and recent behaviors.<br><br>Recent Incident:<br>During a speech, Biden stumbled over DHS Secretary Alejandro Mayorkas' name, leading to further questions about his cognitive state. Critics argue that such moments are becoming daily occurrences, indicating a deterioration in his mental faculties.<br><br>Public and Media Reactions:<br>The media and the public are divided. While some media outlets suggest Biden's gaffes are selectively edited by right-wing sources, many Americans are concerned about his visible struggles. Polls show a significant portion of the country, including Independents and Democrats, are wary of Biden running for a second term.<br><br>Implications for Re-Election:<br>Biden's age and mental acuity are expected to be major issues in the upcoming elections. He would be 86 at the end of a potential second term. The upcoming debate in Atlanta is seen as crucial for Biden to demonstrate his capability to continue serving as President without scripted remarks or teleprompters.<br><br>Suggestions for Addressing Concerns:<br>Some suggest that Biden could address concerns by making changes to his administration, such as replacing Vice President Kamala Harris with Hillary Clinton. However, it remains unclear if this would alleviate public apprehension about Biden's age and health.<br><br>As President Biden faces increasing scrutiny over his cognitive abilities and health, the upcoming debate and potential changes in his administration will be closely watched. The ongoing debate highlights the public's growing concern about Biden's capacity to serve another term.",
+        "media": [
+    {
+      "type": "image",
+      "url": "biden_awkward.png"
+    }
+  ]
+  },
+    {
         "id": 1,
         "title": "Prime Minister Modi Visits Srinagar to Inaugurate Development Projects and Lead Yoga Day",
         "type": "News",
