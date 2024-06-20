@@ -1,4 +1,25 @@
 <template>
+  <Head>
+    <!-- Primary Meta Tags -->
+    <title>{{post.title}}</title>
+    <meta name="title" :content="post.title" />
+    <meta name="description" :content="post.content" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" :content="`https://northpostglobal.com/post/${post.url}`" />
+    <meta property="og:title" :content="post.title" />
+    <meta property="og:description" :content="post.content" />
+    <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" :content="`https://northpostglobal.com/post/${post.url}`" />
+    <meta property="twitter:title" :content="post.title" />
+    <meta property="twitter:description" :content="post.content" />
+    <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+    <!-- Meta Tags Generated with https://metatags.io -->
+  </Head>
     <div class="container mx-auto py-8">
       <button @click="navigateToHome" class="bg-gray-800 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
         Back to Home
@@ -28,10 +49,13 @@
   </template>
   
   <script>
-  import { useHead } from '@vueuse/head';
+  import { Head } from '@unhead/vue/components'
   
   export default {
     name: 'BlogPostDetails',
+    components: {
+      Head,
+    },
     data() {
       return {
         post: null,
@@ -48,18 +72,19 @@
         this.post = data.find(post => post.slug === this.$route.params.slug);
 
         if (this.post) {
-          useHead({
-            title: this.post.title,
-            meta: [
-            { name: 'description', content: this.post.content },
-            { property: 'og:type', content: 'website' },
-              { property: 'og:title', content: this.post.title },
-              { property: 'og:description', content: this.post.content },
-              { property: 'og:url', content: `https://northpostglobal.com/post/${this.post.slug}`},
-              // { property: 'og:image:secure', content: `https://northpostglobal.com/images/${this.post.mainImage}` },
+          // useHead({
+          //   title: this.post.title,
+          //   meta: [
+          //   { name: 'title', content: this.post.title },
+          //   { name: 'description', content: this.post.content },
+          //   { property: 'og:type', content: 'website' },
+          //   { property: 'og:url', content: `https://northpostglobal.com/post/${this.post.slug}`},
+          //   { property: 'og:title', content: this.post.title },
+          //   { property: 'og:description', content: this.post.content },
+          //     // { property: 'og:image:secure', content: `https://northpostglobal.com/images/${this.post.mainImage}` },
               
-            ]
-          });
+          //   ]
+          // });
         }
       } catch (error) {
         console.error('Error fetching post:', error);
