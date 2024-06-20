@@ -1,6 +1,23 @@
 [
     {
         "id": 1,
+        "title": "Biden Leads Trump in Latest Polling Ahead of Debate",
+        "type": "News",
+        "content": "Ahead of the upcoming debate between President Biden and Donald Trump, new polls reveal Biden's gains among independent voters and the importance of issues like democracy and the economy in shaping voter preferences.",
+        "date": "June 20, 2024",
+        "slug": "biden-leads-trump-polling-debate-prep",
+        "mainAlt": "Latest polling shows Biden ahead of Trump among independents, setting the stage for a closely contested debate.",
+        "mainImage":"biden_leads.png",
+            "description": "With exactly one week until President Joe Biden and Donald Trump face off on the debate stage, new polling data reveals a significant shift in voter sentiment. According to the latest Fox News survey among registered voters, Biden now leads Trump by a narrow margin of 50% to 48%. It's worth noting that this two-point difference falls within the poll's margin of error. However, this marks a noteworthy three-point swing in Biden's favor since last month and a seven-point swing since March.<br><br>The key drivers behind Biden's resurgence in the polls have been independent voters. Previously, Trump held a two-point lead among independents, but now Biden leads by nine points among this crucial demographic. This shift underscores the volatility and importance of independent voters in shaping electoral outcomes.<br><br>Issues Driving Voter Preferences<br>When asked about the most critical issues influencing their vote, 68% of respondents prioritize the future of democracy, edging out the economy by two points, which ranks second. This emphasis highlights voter concerns about the integrity and stability of democratic institutions heading into the next election cycle.<br><br>Biden's Momentum Among Independents<br>A separate poll conducted by NPR, PBS News, and Marist College corroborates Biden's gains among independent voters. Biden now leads Trump by two points among independents, reversing a 12-point deficit from just last month. Despite these gains, overall voter preferences remain unchanged from a month ago, with both candidates tied at 49%.<br><br>Trump's Strength Among White Voters<br>While Biden has made strides with independents, Trump has solidified his support among white voters, expanding his lead in this demographic. This demographic shift underscores the complex and dynamic nature of voter allegiances and strategic campaign appeals.<br><br>Implications for the Debate and Beyond<br>As the candidates prepare for their upcoming debate, these polling results provide critical insights into the evolving dynamics of the race for the White House. Biden's improved standing with independents reflects successful outreach efforts, while Trump's continued strength among white voters highlights his base's unwavering support. With issues like democracy and the economy at the forefront of voter concerns, both candidates face the challenge of addressing these pivotal topics to sway undecided voters.",
+            "media": [
+        {
+          "type": "image",
+          "url": "biden_leads.png"
+        }
+      ]
+      },
+    {
+        "id": 1,
         "title": "Trump's Campaign Focus on Swing States and Election Integrity Concerns",
         "type": "News",
         "content": "Lara Trump discusses Donald Trump's strategy in swing states and the RNC's initiatives to ensure election integrity amid concerns over voter registration and early voting procedures.",
