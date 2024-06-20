@@ -52,9 +52,9 @@
             title: this.post.title,
             meta: [
             { name: 'description', content: this.post.content },
-              { property: 'og:title', content: this.post.title },
-              { property: 'og:description', content: this.post.content },
-              { property: 'og:image', content: `https://www.northpostglobal.com/images/${post.mainImage}` },
+              // { property: 'og:title', content: this.post.title },
+              // { property: 'og:description', content: this.post.content },
+              // { property: 'og:image', content: `https://www.northpostglobal.com/images/${post.mainImage}` },
               
             ]
           });
