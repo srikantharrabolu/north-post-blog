@@ -1,6 +1,24 @@
 [
   {
-    "id": 3,
+    "id": 1,
+    "title": "Boeing CEO Apologizes to Families of Crash Victims Amid Calls for Justice",
+    "type": "News",
+    "content": "In the aftermath of two tragic crashes involving Boeing 737 Max jets in 2018 and 2019, resulting in the deaths of nearly 350 people, Boeing CEO David Calhoun faced a Senate investigation subcommittee. He offered apologies to the families of the victims, acknowledging the grief and loss caused by the accidents.",
+    "date": "June 21, 2024",
+    "slug": "boeing-ceo-david-calhoun-apologizes-plane-crash-victims",
+    "mainAlt": "Boeing CEO David Calhoun Apologizes to Families of Plane Crash Victims",
+    "mainImage": "boeing_ceo_apology.png",
+    "description": "In the aftermath of two tragic crashes involving Boeing 737 Max jets in 2018 and 2019, resulting in the deaths of nearly 350 people, Boeing CEO David Calhoun faced a Senate investigation subcommittee. He offered apologies to the families of the victims, acknowledging the grief and loss caused by the accidents.<br><br>The crashes, occurring off the coast of Indonesia in October 2018 and in Ethiopia in March 2019, were attributed to faulty flight control systems on the Boeing 737 Max airplanes.<br><br>Calhoun appeared before the Homeland Security Investigations Subcommittee, where he expressed remorse on behalf of Boeing and its employees. He emphasized the company's commitment to safety moving forward.<br><br>During the Senate hearing, Calhoun addressed questions regarding Boeing's production processes, whistleblower protection, and safety improvements since the incidents. He faced criticism and demands for accountability from families of the victims, who protested during the hearing.<br><br>The families demanded compensation amounting to nearly $25 billion and called for criminal charges, including manslaughter, against Calhoun. They expressed dissatisfaction with previous settlements and called for more severe penalties for Boeing's role in the accidents.<br><br>Boeing remains under scrutiny by various regulatory bodies, including the possibility of revived fraud charges related to the mishandling of safety information leading up to the crashes.<br><br>As Boeing continues its efforts to rebuild trust and enhance safety protocols, the families of the victims continue to advocate for justice and accountability, seeking meaningful legal actions against those responsible for the tragedies.",
+    "media": [
+      {
+        "type": "image",
+        "url": "boeing_ceo_apology.png"
+      }
+    ]
+  }
+  
+  {
+    "id": 1,
     "title": "NATO Secretary-General Credits Trump for Record Defense Spending",
     "type": "News",
     "content": "NATO Secretary-General Jens Stoltenberg attributes record defense spending by member states to former President Trump's advocacy for increased financial contributions within the alliance.",
