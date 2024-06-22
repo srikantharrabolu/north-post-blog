@@ -1,6 +1,23 @@
 [
   {
-    "id": 6,
+    "id": 1,
+    "title": "Trump Proposes Automatic Green Cards for Foreign Students Graduating from American Colleges",
+    "type": "News",
+    "content": "Former President Donald Trump, in a surprising shift, proposes granting automatic green cards to foreign students graduating from American colleges. This new stance contrasts sharply with his usual anti-immigrant rhetoric. Trump announced that if he is reelected, he will implement this policy on his first day in office, aiming to retain top talent in the United States. Trump emphasized the need to retain more foreign students, particularly those from India and China, who often return home due to visa issues after graduation. With over 1 million international students contributing more than $40 billion to the American economy, Trump's proposal aims to enhance this economic benefit. Despite his past stance on curbing legal immigration, Trump now differentiates between legal and illegal immigrants, proposing a favorable policy for highly educated foreign graduates. Trump's proposal comes shortly after President Joe Biden announced plans to grant citizenship to spouses of US citizens, which Trump vows to cancel if reelected. This policy shift adds a new dimension to the upcoming debate between Trump and Biden, promising a consequential discussion on immigration.",
+    "date": "June 22, 2024",
+    "slug": "trump-give-green-cards-foreign-college-graduates",
+    "mainAlt": "Donald Trump announces new policy to grant green cards to foreign college graduates in the United States",
+    "mainImage": "usstudents.png",
+    "description": "Former President Donald Trump, in a surprising shift, proposes granting automatic green cards to foreign students graduating from American colleges. This new stance contrasts sharply with his usual anti-immigrant rhetoric.<br><br>Trump announced that if he is reelected, he will implement this policy on his first day in office, aiming to retain top talent in the United States.<br><br>Trump emphasized the need to retain more foreign students, particularly those from India and China, who often return home due to visa issues after graduation.<br><br>With over 1 million international students contributing more than $40 billion to the American economy, Trump's proposal aims to enhance this economic benefit.<br><br>Despite his past stance on curbing legal immigration, Trump now differentiates between legal and illegal immigrants, proposing a favorable policy for highly educated foreign graduates.<br><br>Trump's proposal comes shortly after President Joe Biden announced plans to grant citizenship to spouses of US citizens, which Trump vows to cancel if reelected.<br><br>This policy shift adds a new dimension to the upcoming debate between Trump and Biden, promising a consequential discussion on immigration.",
+    "media": [
+      {
+        "type": "image",
+        "url": "usstudents.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "India-Bangladesh Diplomatic Talks Highlight Strategic Cooperation and Regional Dynamics",
     "type": "News",
     "content": "New Delhi is currently hosting a significant diplomatic visitor, Bangladesh Prime Minister Sheikh Hasina. This visit follows her recent attendance at Prime Minister Narendra Modi's swearing-in ceremony, highlighting the closeness of India-Bangladesh relations. Prime Minister Hasina arrived in New Delhi today and held discussions with Foreign Minister Jaishankar. Tomorrow, she will receive a ceremonial welcome at Rashtrapati Bhavan and engage in bilateral talks with Prime Minister Modi, marking a pivotal moment in diplomatic relations. Symbolically, this visit underscores India's 'neighborhood first' policy under Modi's third term. It precedes Hasina's upcoming trip to China, emphasizing India's strategic priority in the region. Expected outcomes include the signing of approximately 10 agreements across energy, connectivity, and trade sectors. Joint projects such as the India Bangladesh Friendship Bridge, linking India's northeast to Ranga in Bangladesh, are also anticipated. This initiative aims to enhance regional connectivity and economic cooperation. Central to Sheikh Hasina's agenda is a water sharing agreement concerning the Teesta River, crucial for northern Bangladesh's water needs. However, negotiations hinge on the consent of West Bengal state government, prompting Bangladesh to explore alternative solutions like river restoration projects. Meanwhile, Prime Minister Modi seeks assurances amid growing Chinese influence in Bangladesh, reflected in significant investments and infrastructure projects. With Dhaka balancing ties between India and China, Modi's objective is to strengthen bilateral cooperation and counterbalance China's expanding footprint in the region. This visit assumes greater significance amidst criticism of India's neighborhood policy and China's increasing influence in neighboring countries. It underscores India's efforts to maintain strong ties with Bangladesh, offering strategic leverage in regional dynamics. Stay tuned as we follow this diplomatic engagement closely for further developments.",
@@ -88,7 +105,7 @@
   {
     "id": 1,
     "title": "Ayurvedic Skincare: Enhance Your Skin and Well-being Naturally",
-    "type": "News",
+    "type": "Health",
     "content": "Discover Ayurvedic skincare rituals tailored to your dosha (Vata, Pitta, Kapha) for radiant skin. Learn natural cleansing tips and oils for holistic well-being.",
     "date": "June 21, 2024",
     "slug": "ayurvedic-skincare-enhance-skin-well-being",
