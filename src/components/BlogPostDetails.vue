@@ -1,25 +1,4 @@
 <template>
-  <!-- <Head> -->
-    <!-- Primary Meta Tags -->
-    <!-- <title>{{post.title}}</title>
-    <meta name="title" :content="post.title" />
-    <meta name="description" :content="post.content" /> -->
-    <!-- Open Graph / Facebook -->
-    <!-- <meta property="og:type" content="website" />
-    <meta property="og:url" :content="`https://northpostglobal.com/post/${post.url}`" />
-    <meta property="og:title" :content="post.title" />
-    <meta property="og:description" :content="post.content" />
-    <meta property="og:image" content="https://metatags.io/images/meta-tags.png" /> -->
-
-    <!-- Twitter -->
-    <!-- <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" :content="`https://northpostglobal.com/post/${post.url}`" />
-    <meta property="twitter:title" :content="post.title" />
-    <meta property="twitter:description" :content="post.content" />
-    <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" /> -->
-
-    <!-- Meta Tags Generated with https://metatags.io -->
-  <!-- </Head> -->
     <div class="container mx-auto py-8">
       <button @click="navigateToHome" class="bg-gray-800 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded">
         Back to Home
@@ -30,12 +9,6 @@
           <template v-if="mediaItem.type === 'image'">
             <img :src="'/images/' + mediaItem.url" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
           </template>
-          <!-- <template v-else-if="mediaItem.type === 'video'">
-            <YouTube 
-              :src="mediaItem.url" 
-              @ready="onReady"
-              ref="youtube" />
-          </template> -->
         </div>
         <p class="text-gray-700 mb-6" v-html="post.description"></p>
         <div class="text-gray-600 text-sm">
@@ -48,58 +21,69 @@
     </div>
   </template>
   
-  <script>
-  import { Head } from '@unhead/vue/components'
-  
-  export default {
-    name: 'BlogPostDetails',
-    components: {
-      Head,
-    },
-    data() {
-      return {
-        post: null,
-      };
-    },
-    created() {
-      this.fetchPost();
-    },
-    methods: {
-    async fetchPost() {
-      try {
-        const response = await fetch('/data/blogs.json');
-        const data = await response.json();
-        this.post = data.find(post => post.slug === this.$route.params.slug);
+  <script setup>
+import { ref, onMounted } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
+import { useMeta } from 'vue-meta';
 
-        if (this.post) {
-          // useHead({
-          //   title: this.post.title,
-          //   meta: [
-          //   { name: 'title', content: this.post.title },
-          //   { name: 'description', content: this.post.content },
-          //   { property: 'og:type', content: 'website' },
-          //   { property: 'og:url', content: `https://northpostglobal.com/post/${this.post.slug}`},
-          //   { property: 'og:title', content: this.post.title },
-          //   { property: 'og:description', content: this.post.content },
-          //     // { property: 'og:image:secure', content: `https://northpostglobal.com/images/${this.post.mainImage}` },
-              
-          //   ]
-          // });
-        }
-      } catch (error) {
-        console.error('Error fetching post:', error);
-      }
+const route = useRoute();
+const router = useRouter();
+const post = ref(null);
+
+console.log(route, router)
+
+useMeta(() => ({
+  title: route.meta.title,
+  meta: [
+    { name: 'description', content: route.meta.description },
+    { property: 'og:image', content: route.meta.image },
+  ],
+}));
+
+onMounted(async () => {
+  await fetchPost();
+});
+
+const fetchPost = async () => {
+  try {
+    const response = await fetch('/data/blogs.json');
+    const data = await response.json();
+    post.value = data.find(p => p.slug === route.params.slug);
+    if (post.value) {
+      updateMeta(post.value);
+    } else {
+      console.error("Post not found for slug:", route.params.slug);
+    }
+  } catch (error) {
+    console.error('Error fetching post:', error);
+  }
+};
+
+const updateMeta = (post) => {
+  useMeta({
+    title: post.title,
+    htmlAttrs: {
+      lang: 'en',
+      amp: true
     },
-      onReady() {
-        this.$refs.youtube.playVideo();
-      },
-      navigateToHome() {
-        this.$router.push({ path: '/' });
-      },
-    },
-  };
-  </script>
-  
+    meta: [
+      { name: 'description', content: post.description },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:url', content: `https://northpostglobal.com/post/${post.slug}` },
+      { property: 'og:title', content: post.title },
+      { property: 'og:description', content: post.description },
+      { property: 'og:image', content: `https://northpostglobal.com/images/${post.mainImage}` },
+      { property: 'og:image:secure_url', content: `https://northpostglobal.com/images/${post.mainImage}` }
+      // Add other meta tags as needed
+    ]
+  });
+};
+
+const navigateToHome = () => {
+  router.push({ path: '/' });
+};
+</script>
+
   <style scoped>
   .blog-post {
     border: 1px solid #ddd;

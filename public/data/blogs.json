@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "title": "Putin Accuses NATO of Asia Security Threat Amid Tensions",
+    "type": "News",
+    "content": "Russian President Vladimir Putin accuses NATO of posing a security threat in Asia, highlighting tensions in international relations.",
+    "date": "June 21, 2024",
+    "slug": "putin-accuses-nato-asia-security-threat",
+    "mainAlt": "Vladimir Putin addressing accusations against NATO in Asia security threat statement.",
+    "mainImage": "putin.png",
+    "description": "President Vladimir Putin has indicated potential revisions to Russia's nuclear doctrine. Currently, Moscow reserves the right to deploy nuclear weapons in response to a nuclear or conventional attack. Putin expressed concerns about developments in Western countries, suggesting advancements in low-yield nuclear devices could reduce the threshold for nuclear weapon use. He emphasized the importance of vigilance regarding these developments.<br><br>Regarding international relations, Putin warned against South Korea supplying weapons to Ukraine, labeling it a significant mistake. However, he did not rule out potential arms transfers to North Korea.<br><br>Putin's recent treaty with Kim Jeong Hoon has drawn attention, amid accusations that NATO's actions pose security threats to Russia in Asia. Concurrently, NATO member Romania announced plans to bolster Ukraine's air defense with a Patriot missile system, citing Russian attacks on Ukrainian energy infrastructure.<br><br>These developments coincide with the upcoming visit of a top US diplomat to Vietnam, highlighting Washington's commitment to a free and open Indo-Pacific region following Putin's recent visit to Hanoi.",
+    "media": [
+      {
+        "type": "image",
+        "url": "putin.png"
+      }
+    ]
+  }
+  {
+    "id": 1,
     "title": "Boeing CEO Apologizes to Families of Crash Victims Amid Calls for Justice",
     "type": "News",
     "content": "In the aftermath of two tragic crashes involving Boeing 737 Max jets in 2018 and 2019, resulting in the deaths of nearly 350 people, Boeing CEO David Calhoun faced a Senate investigation subcommittee. He offered apologies to the families of the victims, acknowledging the grief and loss caused by the accidents.",

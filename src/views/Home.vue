@@ -58,6 +58,9 @@
         name: 'BlogPostDetails',
         params: {
           slug: post.slug
+        },
+        props: {
+          post
         }
       })
     }

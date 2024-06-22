@@ -1,13 +1,15 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import { createHead } from '@vueuse/head';
+import {createMetaManager} from 'vue-meta'
 import router from './router';
 import './index.css';
 
 const app = createApp(App);
-const head = createHead();
+const meta = createMetaManager(false, {
+    meta: { tag: 'meta', nameless: true },
+    })
 
 app.use(router);
-app.use(head);
+app.use(meta);
 
 app.mount('#app');
