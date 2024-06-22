@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "title": "Lebanon-Israel Tensions: Netanyahu Warns 'Israel Will Turn Beirut into Gaza' - Hassan Nasrallah Responds  ",
+    "type": "News",
+    "content": "Lebanon-Israel tensions escalate as Israeli Prime Minister Netanyahu warns that Israel will turn Beirut into Gaza, while Hezbollah leader Hassan Nasrallah issues a stern response. Learn more about the rising conflict.",
+    "date": "June 22, 2024",
+    "slug": "lebanon-israel-tensions-netanyahu-beirut-into-gaza-nasrallah-response",
+    "mainAlt": "Israeli Prime Minister Benjamin Netanyahu speaking at a press conference amid escalating tensions with Lebanon and Hezbollah leader Hassan Nasrallah. ",
+    "mainImage": "lebanon_israel_tensions.png",
+    "description": "<strong>Tensions Soar Between Lebanon and Israel Amid Crossfire and Threats</strong><br><br><strong>Hezbollah's Clear Message to Israel</strong><br>Hezbollah leader Hassan Nasrallah warns that the group will stop at nothing if Israeli forces do not exercise restraint, escalating the ongoing conflict.<br><br><strong>Israeli Prime Minister's Stern Warning</strong><br>Prime Minister Benjamin Netanyahu threatens to turn Beirut into Gaza in the event of a war, intensifying the rhetoric between the two sides.<br><br><strong>IDF Releases Footage of Target in Lebanon</strong><br>The Israeli Defense Forces (IDF) claim to have targeted a site in Lebanon responsible for supplying weapons to Hamas and Jemaah Islamiah, further escalating tensions.<br><br><strong>Growing Fears in Southern Lebanon</strong><br>Residents in southern Lebanon, particularly in the city of Saigon, fear the expansion of the Gaza war into Lebanon, leading to increased anxiety and displacement.<br><br><strong>Hezbollah's Capabilities and Threats</strong><br>Hezbollah possesses thousands of fighters, an extensive arsenal of missiles, and drones, posing a significant threat to Israeli cities and infrastructure.<br><br><strong>Historical Context of Lebanon-Israel Conflict</strong><br>Past conflicts, including the 1982 invasion and the 2006 war, have left lasting impacts on Lebanon's infrastructure and economy, complicating the current situation.<br><br><strong>International Concerns and Diplomatic Efforts</strong><br>UN Secretary General Antonio Guterres and US officials, including President Joe Biden and Secretary of State Antony Blinken, express deepening concern and urge restraint to avoid further escalation.<br><br><strong>Expert Analysis on Regional Spillover Risks</strong><br>Military expert Lieutenant Colonel Daniel L. Davis discusses the potential regional spillover and the challenges Israel faces in engaging multiple fronts simultaneously.<br><br>The escalating tensions between Lebanon and Israel, marked by crossfire and threats, have raised fears of a wider regional conflict. International diplomatic efforts and expert analyses highlight the gravity of the situation, emphasizing the need for restraint to prevent a catastrophic spillover.",
+    "media": [
+      {
+        "type": "image",
+        "url": "lebanon_israel_tensions.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "Russia Reaches Highest Vodka Consumption in a Decade Despite Putin's Tax Hikes",
     "type": "News",
     "content": "Russia sees its highest vodka consumption in a decade, despite President Putin's efforts to discourage drinking through increased taxes. Discover the factors driving this surge.",
