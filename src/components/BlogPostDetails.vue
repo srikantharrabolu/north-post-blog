@@ -7,7 +7,7 @@
       <h2 class="text-3xl font-bold mb-4">{{ post.title }}</h2>
       <div class="mb-6" v-for="mediaItem in post.media" :key="mediaItem.url">
         <template v-if="mediaItem.type === 'image'">
-          <img :src="'/images/' + mediaItem.url" alt="Post image" class="w-full h-auto mb-4 rounded-md shadow-sm">
+          <img :src="'/images/' + mediaItem.url" :alt="post.mainAlt" class="w-full h-auto mb-4 rounded-md shadow-sm">
         </template>
       </div>
       <p class="text-gray-700 mb-6" v-html="post.description"></p>

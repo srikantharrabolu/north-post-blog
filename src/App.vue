@@ -3,9 +3,6 @@ import { useHead } from '@unhead/vue';
 import Footer from "./components/Footer.vue";
 useHead({
       title: 'North Post Global',
-      meta: [
-      { name: 'description', content: "North post global news." }
-    ]
     })
 </script>
 
