@@ -4,7 +4,7 @@ import Footer from "./components/Footer.vue";
 useHead({
       title: 'North Post Global',
       meta: [
-      { property: 'og:image', content: `https://northpostglobal.com/images/adobe.png` },
+      { name: 'description', content: "North post global news." }
     ]
     })
 </script>
