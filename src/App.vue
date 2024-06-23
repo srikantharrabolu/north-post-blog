@@ -2,7 +2,10 @@
 import { useHead } from '@unhead/vue';
 import Footer from "./components/Footer.vue";
 useHead({
-      title: 'North Post Global'
+      title: 'North Post Global',
+      meta: [
+      { property: 'og:image', content: `https://northpostglobal.com/images/adobe.png` },
+    ]
     })
 </script>
 
