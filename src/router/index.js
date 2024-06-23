@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue';
+import Health from '../views/Health.vue';
 import BlogPostDetails from '../components/BlogPostDetails.vue';
 
 const routes = [
@@ -28,6 +29,11 @@ const routes = [
         },
       ],
     },
+  },
+  {
+    path: '/health',
+    name: 'Health',
+    component: Health,
   },
   {
     path: '/post/:slug',
