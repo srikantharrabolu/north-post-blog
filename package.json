@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@unhead/vue": "^1.9.14",
     "vite-plugin-commonjs": "^0.10.1",
     "vue": "^3.4.21",
     "vue-meta": "^3.0.0-alpha.10",
