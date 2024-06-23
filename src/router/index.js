@@ -6,7 +6,28 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
+    meta: {
+      title: 'North Post Global',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Welcome to North Post Global - Your trusted source for global news.',
+        },
+        {
+          property: 'og:title',
+          content: 'North Post Global',
+        },
+        {
+          property: 'og:description',
+          content: 'Welcome to North Post Global - Your trusted source for global news.',
+        },
+        {
+          property: 'og:image',
+          content: 'https://northpostglobal.com/images/1.png',
+        },
+      ],
+    },
   },
   {
     path: '/post/:slug',

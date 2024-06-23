@@ -28,43 +28,56 @@ import { useHead } from '@unhead/vue';
 
 const route = useRoute();
 const router = useRouter();
-const post = ref(null);
+const post = ref(null); 
 
-const title = ref('');
-const content = ref('');
-const image = ref('');
-
-const updateMeta = (post) => {
-  title.value = post.title;
-  content.value = post.content;
-  image.value = `https://northpostglobal.com/images/${post.mainImage}`;
-
-  useHead({
-    title: post.title,
-    meta: [
-      { name: 'description', content: post.content },
-      { property: 'og:title', content: post.title },
-      { property: 'og:description', content: post.content },
-      { property: 'og:image', content: `https://northpostglobal.com/images/${post.mainImage}` },
-      { property: 'og:type', content: 'article' },
-      { name: 'twitter:title', content: post.title },
-      { name: 'twitter:description', content: post.content },
-      { name: 'twitter:image', content: `https://northpostglobal.com/images/${post.mainImage}` },
-      { name: 'twitter:card', content: 'summary_large_image' }
-    ]
-  });
-};
+useHead({
+  title: ref(''), // Dynamic title to be updated
+  meta: [
+    {
+      name: 'description',
+      content: ref(''), // Dynamic description to be updated
+    },
+    {
+      property: 'og:title',
+      content: ref(''), // Dynamic Open Graph title to be updated
+    },
+    {
+      property: 'og:description',
+      content: ref(''), // Dynamic Open Graph description to be updated
+    },
+    {
+      property: 'og:image',
+      content: ref(''), // Dynamic Open Graph image URL to be updated
+    },
+  ],
+});
 
 const fetchPost = async () => {
   try {
     const response = await fetch('/data/blogs.json');
     const data = await response.json();
     post.value = data.find(p => p.slug === route.params.slug);
-    if (post.value) {
-      updateMeta(post.value);
-    } else {
-      console.error("Post not found for slug:", route.params.slug);
-    }
+    useHead({
+      title: post.value.title,
+      meta: [
+        {
+          name: 'description',
+          content: post.value.content,
+        },
+        {
+          property: 'og:title',
+          content: post.value.title,
+        },
+        {
+          property: 'og:description',
+          content: post.value.content,
+        },
+        {
+          property: 'og:image',
+          content: post.value.imageURL,
+        },
+      ],
+    });
   } catch (error) {
     console.error('Error fetching post:', error);
   }
