@@ -42,7 +42,7 @@ const routes = [
     props: true
   },
   {
-    path: '/post/:slug',
+    path: '/health/post/:slug',
     name: 'BlogHealthPostDetails',
     component: BlogPostDetails,
     props: true
