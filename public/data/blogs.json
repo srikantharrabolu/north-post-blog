@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "title": "Nvidia Partners with Qatar's Ooredoo to Launch AI Technology in the Middle East",
+    "type": "News",
+    "content": "June 19, 2024 - Nvidia has signed a significant agreement to deploy its cutting-edge artificial intelligence (AI) technology at data centers owned by the Qatari telecom group Ooredoo, across five Middle Eastern countries. Aziz Luqman Fokker, CEO of Ooredoo, announced the deal in an interview with Reuters.",
+    "date": "June 24, 2024",
+    "slug": "nvidia-ooredoo-ai-agreement-middle-east",
+    "mainAlt": "Nvidia and Ooredoo announce AI technology agreement for Middle Eastern data centers.",
+    "mainImage": "nvidia_qatar.png",
+    "description": "<strong>Strategic AI Leadership in the Middle East</strong><br>Ooredoo’s CEO expressed immense pride in this collaboration with Nvidia, positioning Ooredoo at the forefront of AI technology in the region. This agreement aligns with Ooredoo’s strategic vision to become the leading provider of digital infrastructure in the Middle East.<br><br><strong>First Large-Scale AI Deployment Amid Export Restrictions</strong><br>This deal marks Nvidia’s first large-scale AI technology deployment in a region where the U.S. has restricted the export of advanced chips to prevent Chinese firms from accessing the latest AI technology through Middle Eastern channels. Ooredoo emphasized that this move will establish it as the first company in the region capable of offering clients in Qatar, Algeria, Tunisia, Oman, and Kuwait direct access to Nvidia’s AI and graphics processing technology.<br><br><strong>Exclusive B2B Client Advantages</strong><br>Through this agreement, Ooredoo’s B2B clients will gain access to AI services ahead of their competitors, who might need another 18 to 24 months to develop similar capabilities organically. This early access provides a substantial competitive edge in the market.<br><br><strong>Export Regulations and Undisclosed Deal Value</strong><br>While the U.S. permits some Nvidia technology exports to the Middle East, it restricts the most sophisticated chips. Neither Nvidia nor Ooredoo disclosed the financial details of the deal, signed on the sidelines of an event in Copenhagen on June 19. Additionally, Ooredoo did not reveal the specific types of Nvidia technology to be deployed in its data centers.",
+    "media": [
+      {
+        "type": "image",
+        "url": "nvidia_qatar.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "Lebanon-Israel Tensions: Netanyahu Warns 'Israel Will Turn Beirut into Gaza' - Hassan Nasrallah Responds  ",
     "type": "News",
     "content": "Lebanon-Israel tensions escalate as Israeli Prime Minister Netanyahu warns that Israel will turn Beirut into Gaza, while Hezbollah leader Hassan Nasrallah issues a stern response. Learn more about the rising conflict.",
