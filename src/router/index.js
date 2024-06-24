@@ -40,7 +40,14 @@ const routes = [
     name: 'BlogPostDetails',
     component: BlogPostDetails,
     props: true
+  },
+  {
+    path: '/post/:slug',
+    name: 'BlogHealthPostDetails',
+    component: BlogPostDetails,
+    props: true
   }
+
 ];
 
 const router = createRouter({

@@ -55,7 +55,7 @@
     methods: {
      getBlog(post) {
       this.$router.push({
-        name: 'BlogPostDetails',
+        name: 'BlogHealthPostDetails',
         params: {
           slug: post.slug
         },

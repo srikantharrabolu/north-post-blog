@@ -54,7 +54,8 @@ useHead({
 
 const fetchPost = async () => {
   try {
-    const response = await fetch('/data/blogs.json');
+    const path = route.name == 'BlogHealthPostDetails' ? '/data/health.json' : '/data/blogs.json'
+    const response = await fetch(path);
     const data = await response.json();
     post.value = data.find(p => p.slug === route.params.slug);
     useHead({
