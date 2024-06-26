@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "title": "Russia Blames US for Deadly Ukrainian Strike on Crimea",
+    "type": "News",
+    "content": "In a recent escalation, the Kremlin has directly accused the United States of orchestrating a fatal strike on Crimea, claiming at least four deaths and over 150 injuries. Moscow condemned the attack as barbaric, alleging that Kyiv utilized American missiles with US military support, including data and targeting coordinates.<br><br>The Russian Defense Ministry's assertion follows a deadly assault on Sevastopol, Crimea, where cluster munitions were reportedly deployed. The incident has prompted Russia to summon US Ambassador Lynn Tracy, threatening retaliatory measures.<br><br>In response, Washington expressed regret over civilian casualties, citing its provision of defensive weapons to Ukraine against what it deems Russian aggression, including in Crimea, recognized internationally as Ukrainian territory.<br><br>Tensions escalate as Russia, which annexed Crimea in 2014, warns of broader conflict if NATO enhances support for Ukraine. President Vladimir Putin's recent warnings of potential retaliation, including supplying long-range weapons to allies and nuclear threats, underscore the volatile geopolitical landscape.<br><br>As the West braces for further developments, the aftermath of this Crimea attack poses critical questions about Putin's next moves.",
+    "date": "June 26, 2024",
+    "slug": "russia-blames-us-deadly-ukrainian-strike-crimea",
+    "mainAlt": "Illustration depicting tensions between Russia, Ukraine, and the United States over Crimea.",
+    "mainImage": "crimea_us_russia_tensions.png",
+    "description": "<strong>Russia Blames US for Deadly Ukrainian Strike on Crimea</strong><br><br>In a recent escalation, the Kremlin has directly accused the United States of orchestrating a fatal strike on Crimea, claiming at least four deaths and over 150 injuries. Moscow condemned the attack as barbaric, alleging that Kyiv utilized American missiles with US military support, including data and targeting coordinates.<br><br>The Russian Defense Ministry's assertion follows a deadly assault on Sevastopol, Crimea, where cluster munitions were reportedly deployed. The incident has prompted Russia to summon US Ambassador Lynn Tracy, threatening retaliatory measures.<br><br>In response, Washington expressed regret over civilian casualties, citing its provision of defensive weapons to Ukraine against what it deems Russian aggression, including in Crimea, recognized internationally as Ukrainian territory.<br><br>Tensions escalate as Russia, which annexed Crimea in 2014, warns of broader conflict if NATO enhances support for Ukraine. President Vladimir Putin's recent warnings of potential retaliation, including supplying long-range weapons to allies and nuclear threats, underscore the volatile geopolitical landscape.<br><br>As the West braces for further developments, the aftermath of this Crimea attack poses critical questions about Putin's next moves.<br><br>Stay tuned for updates on this developing story.",
+    "media": [
+      {
+        "type": "image",
+        "url": "crimea_us_russia_tensions.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "North Korea's Hypersonic Missile Test Ends in Mid-Air Explosion",
     "type": "News",
     "content": "North Korea's hypersonic missile test ended in failure when the missile exploded mid-air after traveling 250 kilometers, according to South Korean military reports. The launch comes shortly after Pyongyang's recent trash balloon release towards South Korea, escalating tensions in the region.",
