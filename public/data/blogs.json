@@ -1,5 +1,22 @@
 [
   {
+    "id": 11,
+    "title": "EU Accuses Microsoft of Antitrust Violations Over Teams Integration - Salesforce(slack) Complaint",
+    "type": "News",
+    "content": "The European Commission has accused Microsoft of antitrust violations, alleging improper bundling of its Teams chat and video app with its Office suite. This charge, following a 2020 complaint by Slack, marks the first major antitrust scrutiny of Microsoft in two decades.<br><br>Regulators contend that Microsoft's integration of Teams into Office software gives it an unfair advantage, hindering competition by limiting interaction with rival products. Despite recent attempts to unbundle Teams from Office, the European Commission deems these efforts insufficient, urging further changes to promote fair competition.<br><br>Slack, owned by Salesforce, originally raised concerns over Teams' inclusion in Office 365 for free in 2017, which replaced Skype for Business. Teams' popularity surged during the pandemic, particularly for video conferencing.<br><br>Microsoft has responded, pledging to address EU antitrust concerns globally by separating Teams from Office. If fined, this would be Microsoft's first significant antitrust penalty in 20 years.",
+    "date": "June 26, 2024",
+    "slug": "eu-accuses-microsoft-antitrust-violations-teams-integration-salesforce-slack-complaint",
+    "mainAlt": "Illustration depicting EU accusations against Microsoft for antitrust violations.",
+    "mainImage": "eu_microsoft_teams_antitrust.png",
+    "description": "<strong>EU Accuses Microsoft of Antitrust Violations Over Teams Integration</strong><br><br>The European Commission has accused Microsoft of antitrust violations, alleging improper bundling of its Teams chat and video app with its Office suite. This charge, following a 2020 complaint by Slack, marks the first major antitrust scrutiny of Microsoft in two decades.<br><br>Regulators contend that Microsoft's integration of Teams into Office software gives it an unfair advantage, hindering competition by limiting interaction with rival products. Despite recent attempts to unbundle Teams from Office, the European Commission deems these efforts insufficient, urging further changes to promote fair competition.<br><br>Slack, owned by Salesforce, originally raised concerns over Teams' inclusion in Office 365 for free in 2017, which replaced Skype for Business. Teams' popularity surged during the pandemic, particularly for video conferencing.<br><br>Microsoft has responded, pledging to address EU antitrust concerns globally by separating Teams from Office. If fined, this would be Microsoft's first significant antitrust penalty in 20 years.",
+    "media": [
+      {
+        "type": "image",
+        "url": "eu_microsoft_teams_antitrust.png"
+      }
+    ]
+  },
+  {
     "id": 1,
     "title": "Michael Phelps Criticizes Anti-Doping Measures Ahead of Paris Olympics",
     "type": "News",
