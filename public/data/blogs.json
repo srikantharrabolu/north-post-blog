@@ -1,5 +1,22 @@
 [
   {
+    "id": 12,
+    "title": "Astronauts Remain Stranded in Space While Boeing Investigates Spacecraft Issues",
+    "type": "Article",
+    "content": "NASA Cancels Spacewalk and Delays Boeing Starliner's Earth Return.",
+    "date": "June 26, 2024",
+    "slug": "astronauts-stranded-boeing-investigates-spacecraft-issues",
+    "mainAlt": "Astronauts stranded in space, Boeing investigates spacecraft issues.",
+    "mainImage": "boeing_space_exploration.png",
+    "description": "<strong>Boeing's Historical Contributions:</strong><br><ul><li>Lunar Orbiters: Boeing built five orbiters that mapped the moon's surface, providing vital information for NASA's Apollo missions.</li><li>Saturn V Rocket: Boeing constructed the first stage of the Saturn V rocket, instrumental in launching astronauts to the moon.</li></ul><br><strong>Modern-Day Struggles:</strong><br><ul><li>Aviation Setbacks: Boeing's recent history is marred by two major crashes, multiple accidents, and congressional hearings, severely damaging its credibility.</li><li>Space Troubles: On June 5th, Boeing launched astronauts aboard the Starliner capsule, marking its first crewed mission for NASA. However, the mission encountered issues, including helium leaks affecting the thruster system.</li></ul><br><strong>The Starliner Mission:</strong><br><ul><li>Launch and Issues: Despite a successful launch, officials discovered five helium leaks, impacting the thruster system. NASA gave Boeing four days to address the issues, but the problems persisted.</li><li>Delayed Return: The journey back to Earth faced delays, with reports indicating both Boeing and NASA were aware of the faults pre-launch.</li><li>Comparison with SpaceX: Unlike Boeing, SpaceX successfully completed its first crewed mission in 2020 and has been ferrying NASA astronauts since then.</li></ul><br><strong>Challenges Ahead:</strong><br><ul><li>Starliner's Independence: Boeing asserts the Starliner unit operates independently, but it faces significant scrutiny.</li><li>Return Journey: The journey back to Earth is the most dangerous part of the mission, requiring precise navigation through the Earth's atmosphere and the use of parachutes for a safe landing.</li></ul><br>Boeing's history is a blend of groundbreaking achievements and recent struggles. The success of the Starliner mission is crucial for Boeing's future in space exploration. As the company navigates these challenges, all eyes are on its ability to safely bring the astronauts back home and restore its reputation.",
+    "media": [
+      {
+        "type": "image",
+        "url": "boeing_space_exploration.png"
+      }
+    ]
+  },
+  {
     "id": 11,
     "title": "Paris Olympics 2024: Pollution in the Seine River and Lack of Air Conditioning in the Olympic Village",
     "type": "News",
