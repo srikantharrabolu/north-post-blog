@@ -1,6 +1,23 @@
 [
   {
-    "id": 12,
+    "id": 1,
+    "title": "North Korea's Hypersonic Missile Test Ends in Mid-Air Explosion",
+    "type": "News",
+    "content": "North Korea's hypersonic missile test ended in failure when the missile exploded mid-air after traveling 250 kilometers, according to South Korean military reports. The launch comes shortly after Pyongyang's recent trash balloon release towards South Korea, escalating tensions in the region.",
+    "date": "June 26, 2024",
+    "slug": "north-korea-hypersonic-missile-test-mid-air-explosion",
+    "mainAlt": "Illustration of a hypersonic missile test, representing North Korea's recent failed test.",
+    "mainImage": "north_korea_missile_test.png",
+    "description": "<strong>North Korea's Hypersonic Missile Test Ends in Mid-Air Explosion</strong><br><br>North Korea's recent hypersonic missile test ended in failure when the missile exploded mid-air after traveling 250 kilometers, according to reports from the South Korean military. The failed launch follows Pyongyang's recent trash balloon release towards South Korea, further escalating tensions in the region.<br><br>The incident underscores ongoing concerns about North Korea's military capabilities and its continued development of advanced missile technologies despite international sanctions and diplomatic efforts.<br><br>Stay tuned for further updates on this developing story.",
+    "media": [
+      {
+        "type": "image",
+        "url": "north_korea_missile_test.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "Astronauts Remain Stranded in Space While Boeing Investigates Spacecraft Issues",
     "type": "Article",
     "content": "NASA Cancels Spacewalk and Delays Boeing Starliner's Earth Return.",
@@ -17,7 +34,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 1,
     "title": "Paris Olympics 2024: Pollution in the Seine River and Lack of Air Conditioning in the Olympic Village",
     "type": "News",
     "content": "June 26, 2024 - As the Paris Olympics 2024 approaches, the city is facing significant challenges, including the heavily polluted Seine River and the lack of air conditioning in the Olympic Village. Despite efforts to clean the Seine, the water remains unsafe, leading residents to threaten drastic actions. Additionally, the decision to use geothermal cooling instead of traditional air conditioning in the Olympic Village has raised concerns amid a record heatwave.",
